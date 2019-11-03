@@ -43,9 +43,9 @@
     <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/02/math/"/>
     <id>zhuosongz.github.io/zszhexo.github.io/2019/11/02/math/</id>
     <published>2019-11-01T16:26:51.000Z</published>
-    <updated>2019-11-03T17:15:47.378Z</updated>
+    <updated>2019-11-03T17:19:29.259Z</updated>
     
-    <content type="html"><![CDATA[<p>This is good.</p><p><span class="math display">\[ f(x) = 1\]</span></p>]]></content>
+    <content type="html"><![CDATA[<p>This is good.</p><p><span class="math display">\[ f(x) = 1\]</span></p><p>this is a new equation:</p><p><span class="math display">\[\begin{aligned}f(x) &amp; = 1 \\&amp; \neq 2.\end{aligned}\tag{1}\]</span></p>]]></content>
     
     <summary type="html">
     
@@ -55,7 +55,8 @@
 &lt;p&gt;&lt;span class=&quot;math display&quot;&gt;\[ 
 f(x) = 1
 \]&lt;/span&gt;&lt;/p&gt;
-
+&lt;p&gt;this is a new equation:&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;math display&quot;&gt;\
       
     
     </summary>
