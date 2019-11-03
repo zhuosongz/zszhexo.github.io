@@ -43,9 +43,9 @@
     <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/02/math/"/>
     <id>zhuosongz.github.io/zszhexo.github.io/2019/11/02/math/</id>
     <published>2019-11-01T16:26:51.000Z</published>
-    <updated>2019-11-03T17:19:29.259Z</updated>
+    <updated>2019-11-03T18:07:23.819Z</updated>
     
-    <content type="html"><![CDATA[<p>This is good.</p><p><span class="math display">\[ f(x) = 1\]</span></p><p>this is a new equation:</p><p><span class="math display">\[\begin{aligned}f(x) &amp; = 1 \\&amp; \neq 2.\end{aligned}\tag{1}\]</span></p>]]></content>
+    <content type="html"><![CDATA[<p>This is good.</p><p><span class="math display">\[ f(x) = 1\]</span></p><p>this is a new equation:</p><p><span class="math display">\[\begin{aligned}f(x) &amp; = 1 \\&amp; \neq 2.\end{aligned}\tag{1}\]</span></p><blockquote class="blockquote-center">????��????????????????????????????��???????????????????????��??��?��????????�</blockquote>]]></content>
     
     <summary type="html">
     
@@ -62,6 +62,12 @@ f(x) = 1
     </summary>
     
     
+      <category term="note" scheme="zhuosongz.github.io/zszhexo.github.io/categories/note/"/>
+    
+    
+      <category term="math" scheme="zhuosongz.github.io/zszhexo.github.io/tags/math/"/>
+    
+      <category term="test" scheme="zhuosongz.github.io/zszhexo.github.io/tags/test/"/>
     
   </entry>
   
