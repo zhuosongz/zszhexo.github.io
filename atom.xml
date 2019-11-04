@@ -6,7 +6,7 @@
   <link href="/zszhexo.github.io/atom.xml" rel="self"/>
   
   <link href="zhuosongz.github.io/zszhexo.github.io/"/>
-  <updated>2019-11-04T15:32:36.025Z</updated>
+  <updated>2019-11-04T15:53:01.983Z</updated>
   <id>zhuosongz.github.io/zszhexo.github.io/</id>
   
   <author>
@@ -17,13 +17,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hello World</title>
+    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/04/hello-world/"/>
+    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/04/hello-world/</id>
+    <published>2019-11-04T15:53:01.983Z</published>
+    <updated>2019-11-04T15:53:01.983Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="quick-start">Quick Start</h2><h3 id="create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p><h3 id="texts-with-color">Texts with color</h3><p><font color="#187892" size="number">内容</font></p><h3 id="to-do-list">To do list</h3><ul><li><i class="fa fa-check-square"></i> 已完成</li><li><i class="fa fa-square"></i> 未完成</li></ul><!-- 一共有两种写法，效果看下面 --><div class="note primary"><p><i class="fa fa-check-square"></i> 已完成 <i class="fa fa-check-square"></i> 已完成 <i class="fa fa-check-square"></i> 已完成 <i class="fa fa-check-square"></i> 已完成 <i class="fa fa-check-square"></i> 已完成 <i class="fa fa-square"></i> 未完成 <i class="fa fa-square"></i> 未完成 <i class="fa fa-square"></i> 未完成</p></div><div class="note primary"><p><i class="fa fa-check-square"></i> 已完成 <i class="fa fa-check-square"></i> 已完成 <i class="fa fa-check-square"></i> 已完成 <i class="fa fa-check-square"></i> 已完成 <i class="fa fa-check-square"></i> 已完成 <i class="fa fa-square"></i> 未完成 <i class="fa fa-square"></i> 未完成 <i class="fa fa-square"></i> 未完成</p></div><div class="note default"><p>default</p></div><div class="note primary"><p>primary</p></div><div class="note success"><p>success</p></div><div class="note info"><p>info</p></div><div class="note warning"><p>warning</p></div><div class="note danger"><p>danger</p></div><div class="note danger no-icon"><p>danger no-icon</p></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>新的开始</title>
     <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/04/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
     <id>zhuosongz.github.io/zszhexo.github.io/2019/11/04/新的开始/</id>
     <published>2019-11-04T15:00:00.000Z</published>
-    <updated>2019-11-04T15:32:36.025Z</updated>
+    <updated>2019-11-04T15:54:04.494Z</updated>
     
-    <content type="html"><![CDATA[<p>我记得我上次努力，还是十几年前。那个时候还在上高中，心里没有其他的事，不过就是 学习。农村中学的教学宗旨，就是让人勤奋，因为除了勤奋，我们对其他任何一样东西， 都没有办法掌控。家长老师们也都强调：“熬过了这几年，就好了。”一直到好几年后，我 才发现这是一句赤裸裸的谎言。于是天天规律作息：早上五点半起床，六点多跑操，天天 教室、食堂、宿舍，三点一线，晚上十点睡觉。这么过了几年，终于考上了武汉大学。</p><p>上了大学，便不像高中那么勤奋了。而且在大学，我还发现了很多其他更好玩的事情，原 来的自己是那么无知？再加上之前家长老师们的话是那么地深入人心，于是大一时候一度 不知道做什么。大二下的时候，终于良心发现，觉得这么下去，终将颓废，于是便好好上 课认真完成作业，坚持早起。就这样，后来拿到了去香港中文大学留学的机会，这才开始 了研究僧的道路。</p><p>在香港遇到良师益友，都对我影响很大，我在读博士的过程中，也小有收获。可是后来，一种懈怠的心理就上来了，我甚至有段时间觉得科研也不过如此，随便做做，也可以有成就。但是，我忽略了一个大原因，因为有大牛带我，所以很多复杂困难的东西，我并没有面对。后来博士毕业，做了几年博后，这种艰难困苦就更加明显了。我一方面害怕，一方面又拒绝承认是我自己实力不行，所以到了现在，竟然还是那样。我也在不停地寻找原因，似乎也在网上找到了很多道理和建议，但是居然并没有一样能够坚持做下去的。“技不如人？器不如人？” 都不是，而是心不如人，志不如人。</p><p>亡羊补牢，未为晚也。我想从现在开始做出改变。第一点要做的就是早起，早睡。经过上周的实践，这一点不难做到。之前所以没能成功的原因，不过是自己给自己晚睡晚起找了许多借口：“晚上效率高”，“晚起毁一早上，早起毁一天”云云。雍正皇帝每天早上五点就起来上朝了，皇帝尚且如此，更何况我等无名之辈呢？</p><p>第二点，就是要把天天做的东西写下来。可能并不会花太长时间，但是每天坚持写一点自己做的东西，无论成功，无论失败，都是一种记录。曾子曰：“吾日三省吾身”。没有反思，哪里有进步？我并不是完人，又何妨天天给自己挑毛病呢？天天能记下来，长远来看，也是一种成功。</p><p>第三点，要给自己制定一些目标和计划。“凡事预则立”。如果没有计划，没有目标，哪里还有早起的动力？哪里还有奋斗的热情？以前种种对自己的纵容，不过就是没有当时高中的激情罢了。</p><p>第四点，戒除干扰。微信、视频网站等东西太干扰我的精力了。这些小东西，很像小型毒品，沾得上，拿不掉。但是，以前没有这些东西，不还是好好的吗？昨天看谢益辉的博客，他也说他已经好久不看朋友圈了，至于知乎，他更是对里边的一些“知乎现象”很是反感。是呀，本来就没什么好看的，为什么以前要浪费时间在这些东西上面呢？</p><p>人常说“善始善终”，然而，“善始”者众，而坚持到后来的很少。相信自己能做到的，加油！</p><h4 id="vim-自动给中文换行">vim 自动给中文换行</h4><p>:set formatoptions+=m "允许对multi_byte字符换行（否则默认只能空格或者英文标点，详见set breakat=） :set textwidth=80 "换行的长度 ggVG "选中全文 gq "应用到选中文本</p>]]></content>
+    <content type="html"><![CDATA[<p>我记得我上次努力，还是十几年前。那个时候还在上高中，心里没有其他的事，不过就是 学习。农村中学的教学宗旨，就是让人勤奋，因为除了勤奋，我们对其他任何一样东西， 都没有办法掌控。家长老师们也都强调：“熬过了这几年，就好了。”一直到好几年后，我 才发现这是一句赤裸裸的谎言。于是天天规律作息：早上五点半起床，六点多跑操，天天 教室、食堂、宿舍，三点一线，晚上十点睡觉。这么过了几年，终于考上了武汉大学。</p><p>上了大学，便不像高中那么勤奋了。而且在大学，我还发现了很多其他更好玩的事情，原 来的自己是那么无知？再加上之前家长老师们的话是那么地深入人心，于是大一时候一度 不知道做什么。大二下的时候，终于良心发现，觉得这么下去，终将颓废，于是便好好上 课认真完成作业，坚持早起。就这样，后来拿到了去香港中文大学留学的机会，这才开始 了研究僧的道路。</p><p>在香港遇到良师益友，都对我影响很大，我在读博士的过程中，也小有收获。可是后来，一种懈怠的心理就上来了，我甚至有段时间觉得科研也不过如此，随便做做，也可以有成就。但是，我忽略了一个大原因，因为有大牛带我，所以很多复杂困难的东西，我并没有面对。后来博士毕业，做了几年博后，这种艰难困苦就更加明显了。我一方面害怕，一方面又拒绝承认是我自己实力不行，所以到了现在，竟然还是那样。我也在不停地寻找原因，似乎也在网上找到了很多道理和建议，但是居然并没有一样能够坚持做下去的。“技不如人？器不如人？” 都不是，而是心不如人，志不如人。</p><p>亡羊补牢，未为晚也。我想从现在开始做出改变。</p><div class="note warning"><p>第一点要做的就是早起，早睡。经过上周的实践，这一点不难做到。之前所以没能成功的原因，不过是自己给自己晚睡晚起找了许多借口：“晚上效率高”，“晚起毁一早上，早起毁一天”云云。雍正皇帝每天早上五点就起来上朝了，皇帝尚且如此，更何况我等无名之辈呢？</div><div class="note warning"><p>第二点，就是要把天天做的东西写下来。可能并不会花太长时间，但是每天坚持写一点自己做的东西，无论成功，无论失败，都是一种记录。曾子曰：“吾日三省吾身”。没有反思，哪里有进步？我并不是完人，又何妨天天给自己挑毛病呢？天天能记下来，长远来看，也是一种成功。</div><div class="note warning"><p>第三点，要给自己制定一些目标和计划。“凡事预则立”。如果没有计划，没有目标，哪里还有早起的动力？哪里还有奋斗的热情？以前种种对自己的纵容，不过就是没有当时高中的激情罢了。</div><div class="note warning"><p>第四点，戒除干扰。微信、视频网站等东西太干扰我的精力了。这些小东西，很像小型毒品，沾得上，拿不掉。但是，以前没有这些东西，不还是好好的吗？昨天看谢益辉的博客，他也说他已经好久不看朋友圈了，至于知乎，他更是对里边的一些“知乎现象”很是反感。是呀，本来就没什么好看的，为什么以前要浪费时间在这些东西上面呢？</div><p>人常说“善始善终”，然而，“善始”者众，而坚持到后来的很少。相信自己能做到的，加油！</p><h4 id="vim-自动给中文换行">vim 自动给中文换行</h4><p>:set formatoptions+=m "允许对multi_byte字符换行（否则默认只能空格或者英文标点，详见set breakat=） :set textwidth=80 "换行的长度 ggVG "选中全文 gq "应用到选中文本</p>]]></content>
     
     <summary type="html">
     
@@ -41,28 +63,6 @@
       <category term="life" scheme="zhuosongz.github.io/zszhexo.github.io/tags/life/"/>
     
       <category term="blog" scheme="zhuosongz.github.io/zszhexo.github.io/tags/blog/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/04/hello-world/"/>
-    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/04/hello-world/</id>
-    <published>2019-11-04T01:52:54.111Z</published>
-    <updated>2019-11-04T01:52:54.111Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="quick-start">Quick Start</h2><h3 id="create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
-    
     
   </entry>
   
