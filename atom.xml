@@ -6,7 +6,7 @@
   <link href="/zszhexo.github.io/atom.xml" rel="self"/>
   
   <link href="zhuosongz.github.io/zszhexo.github.io/"/>
-  <updated>2019-11-03T18:16:06.441Z</updated>
+  <updated>2019-11-04T00:37:08.197Z</updated>
   <id>zhuosongz.github.io/zszhexo.github.io/</id>
   
   <author>
@@ -20,16 +20,19 @@
     <title>A new day!</title>
     <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/04/1/"/>
     <id>zhuosongz.github.io/zszhexo.github.io/2019/11/04/1/</id>
-    <published>2019-11-03T18:14:21.000Z</published>
-    <updated>2019-11-03T18:16:06.441Z</updated>
+    <published>2019-11-03T18:14:00.000Z</published>
+    <updated>2019-11-04T00:37:08.197Z</updated>
     
-    <content type="html"><![CDATA[<p>Today is a new day!</p>]]></content>
+    <content type="html"><![CDATA[<p>Today is a new day!</p><p><span class="math display">\[f(x) = 1.\]</span></p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;Today is a new day!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;math display&quot;&gt;\[
+f(x) = 1.
+\]&lt;/span&gt;&lt;/p&gt;
 
       
     
