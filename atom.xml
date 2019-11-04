@@ -69,6 +69,38 @@ f(x) = 1.
   </entry>
   
   <entry>
+    <title>research-diary</title>
+    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/04/1/"/>
+    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/04/1/</id>
+    <published>2019-11-03T16:00:00.000Z</published>
+    <updated>2019-11-04T03:38:53.279Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="morning">Morning</h3><h4 id="paper-reading">Paper reading</h4><p><span class="math inline">\(\def\IR{\mathbb{R}}\def\IP{\mathbb{P}}\)</span></p><ol type="1"><li><p><a href="https://arxiv.org/pdf/1611.02686.pdf" target="_blank" rel="noopener">A paper on weighted bootstrap</a></p><ul><li><p>by Mayya Zhilova;</p></li><li><p>Abstract: We study accuracy of a weighted bootstrap procedure for estimation of quantiles of Euclidean norm of a sum of independent random vectors with zero mean and bounded fourth moment.</p></li><li><p>They consider the non-smooth errors for Balls in the space <span class="math inline">\(\mathbb{R}^d\)</span>.</p></li><li><p>The result is quit sharp, which is of order <span class="math inline">\(n^{-1/2}\)</span>.</p></li></ul></li><li><p><a href="https://projecteuclid-org.libproxy1.nus.edu.sg/download/pdf_1/euclid.aos/1176349666" target="_blank" rel="noopener">One-step and two-step estimators</a></p><ul><li>By Janssen et. al.</li><li>Abstract: A one-step version <span class="math inline">\(M^{(1)}_n\)</span> and a two-step version <span class="math inline">\(M^{(2)}_n\)</span> of a general <span class="math inline">\(M\)</span>-estimator <span class="math inline">\(M_n\)</span> are suggested such that <span class="math inline">\(M_n - M^{(1)}_n = O_p(n^{-1})\)</span> and <span class="math inline">\(M_n - M^{(2)}_n = O_p(n^{-3/2})\)</span> for every <span class="math inline">\(n^{1/2}\)</span>-consistent initial estimator and under some regularity conditions. In the special case of maximum likelihood estimation, this among other yields that the second-order efficiency properties of <span class="math inline">\(M^{(2)}_n\)</span> coincide with those of <span class="math inline">\(M_n\)</span>. An application to the Pitman estimator of location is considered.</li></ul></li><li><p><a href="https://arxiv.org/abs/1205.2947" target="_blank" rel="noopener">A uniform Berry–Esseen theorem on <span class="math inline">\(M\)</span>-estimators for geometrically ergodic Markov chains</a></p><ul><li>By Ledoux and his coauthors</li><li>Abstract: Let <span class="math inline">\(\{X_n\}_{n\ge0}\)</span> be a <span class="math inline">\(V\)</span>-geometrically ergodic Markov chain. Given some real-valued functional <span class="math inline">\(F\)</span>, define <span class="math inline">\(M_n(\alpha):=n^{-1}\sum_{k=1}^nF(\alpha,X_{k-1},X_k)\)</span>, <span class="math inline">\(\alpha\in\mathcal{A}\subset \mathbb {R}\)</span>. Consider an <span class="math inline">\(M\)</span> estimator <span class="math inline">\(\hat{\alpha}_n\)</span>, that is, a measurable function of the observations satisfying <span class="math inline">\(M_n(\hat{\alpha}_n)\leq \min_{\alpha\in\mathcal{A}}M_n(\alpha)+c_n\)</span> with <span class="math inline">\(\{c_n\}_{n\geq1}\)</span> some sequence of real numbers going to zero. Under some standard regularity and moment assumptions, close to those of the i.i.d. case, the estimator <span class="math inline">\(\hat{\alpha}_n\)</span> satisfies a Berry--Esseen theorem uniformly with respect to the underlying probability distribution of the Markov chain.</li><li>Therefore, this can should be carefully read.</li><li>Markov chain and <span class="math inline">\(M\)</span> estimators.</li></ul></li></ol><h4 id="berry--esseen-bound-for-m-estimators.">Berry--Esseen bound for <span class="math inline">\(M\)</span> estimators.</h4><ol type="1"><li><a href="https://www-jstor-org.libproxy1.nus.edu.sg/stable/pdf/4616471.pdf?refreqid=excelsior%3A3d89efc93c85b5722673ba093b37c3a9" target="_blank" rel="noopener">A Berry-Esséen Bound for M-Estimators, 1997</a><ul><li>By V. Bentkus, M. Bloznelis and F. Götze.</li><li>Potential problems:<ul><li>Convexity: Convexity There exist <span class="math inline">\(\delta\)</span> &gt; 0 and B &gt; 0 such that <span class="math display">\[      \mathbb{P} \bigl[ Q_N(t) \text{ is convex on } (t_0 - \delta , t_0 + \delta) \bigr] \geq 1 - B N^{-1/2}.  \]</span></li><li>Can we weaken this condition to <span class="math inline">\(\mathbb{E} Q_N\)</span>?</li><li><span class="math inline">\(\IR\)</span>.</li><li>What they considered is the one-dimensional case: <span class="math display">\[       \Delta_N := \sup_{ u \in \IR } |\IP[N^{1/2} (t_N - t_0)/b &lt; u] -\Phi(u) | \leq C N^{-1/2},  \]</span> provided that <span class="math display">\[      N / \log N \geq \text{some constant}.  \]</span></li></ul></li></ul></li></ol><h3 id="cheatsheets">Cheatsheets:</h3><pre><code>* [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;morning&quot;&gt;Morning&lt;/h3&gt;
+&lt;h4 id=&quot;paper-reading&quot;&gt;Paper reading&lt;/h4&gt;
+&lt;p&gt;&lt;span class=&quot;math inline&quot;&gt;\(\def\IR{\mathbb{R}}\def\IP{\mathbb{P}
+      
+    
+    </summary>
+    
+    
+      <category term="研究日志" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="review" scheme="zhuosongz.github.io/zszhexo.github.io/tags/review/"/>
+    
+      <category term="Bootstrap" scheme="zhuosongz.github.io/zszhexo.github.io/tags/Bootstrap/"/>
+    
+      <category term="Statistical application" scheme="zhuosongz.github.io/zszhexo.github.io/tags/Statistical-application/"/>
+    
+  </entry>
+  
+  <entry>
     <title>19-11-04</title>
     <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/03/1/"/>
     <id>zhuosongz.github.io/zszhexo.github.io/2019/11/03/1/</id>
