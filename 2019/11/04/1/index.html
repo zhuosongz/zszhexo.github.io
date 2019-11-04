@@ -25,7 +25,7 @@
     version: '7.5.0',
     exturl: false,
     sidebar: {"position":"left","display":"post","offset":12,"onmobile":false},
-    copycode: {"enable":false,"show_result":false,"style":null},
+    copycode: {"enable":true,"show_result":false,"style":null},
     back2top: {"enable":true,"sidebar":false,"scrollpercent":false},
     bookmark: {"enable":false,"color":"#222","save":"auto"},
     fancybox: false,
@@ -51,15 +51,15 @@
   };
 </script>
 
-  <meta name="description" content="Morning Paper reading \(\def\IR{\mathbb{R}}\def\IP{\mathbb{P}}\)  A paper on weighted bootstrap  by Mayya Zhilova; Abstract: We study accuracy of a weighted bootstrap procedure for estimation of quant">
+  <meta name="description" content="睡觉时间：2:30 起床时间：7:30 到办公室时间：8:30  今天坐地铁来学校，然后从地铁站走到办公室，共用时30分钟 (其中走路20分钟)。  午饭: 12:20--13:00 午睡：13:30--14:00  Morning Paper reading \(\def\IR{\mathbb{R}}\def\IP{\mathbb{P}}\def\IE{\mathbb{E}}\)  A pap">
 <meta name="keywords" content="review,Bootstrap,Statistical application">
 <meta property="og:type" content="article">
-<meta property="og:title" content="research-diary">
+<meta property="og:title" content="研究日志">
 <meta property="og:url" content="zhuosongz.github.io&#x2F;zszhexo.github.io&#x2F;2019&#x2F;11&#x2F;04&#x2F;1&#x2F;index.html">
 <meta property="og:site_name" content="zszHexo">
-<meta property="og:description" content="Morning Paper reading \(\def\IR{\mathbb{R}}\def\IP{\mathbb{P}}\)  A paper on weighted bootstrap  by Mayya Zhilova; Abstract: We study accuracy of a weighted bootstrap procedure for estimation of quant">
+<meta property="og:description" content="睡觉时间：2:30 起床时间：7:30 到办公室时间：8:30  今天坐地铁来学校，然后从地铁站走到办公室，共用时30分钟 (其中走路20分钟)。  午饭: 12:20--13:00 午睡：13:30--14:00  Morning Paper reading \(\def\IR{\mathbb{R}}\def\IP{\mathbb{P}}\def\IE{\mathbb{E}}\)  A pap">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-11-04T03:38:53.279Z">
+<meta property="og:updated_time" content="2019-11-04T12:16:25.180Z">
 <meta name="twitter:card" content="summary">
 
 <link rel="canonical" href="zhuosongz.github.io/zszhexo.github.io/2019/11/04/1/">
@@ -76,7 +76,7 @@
   };
 </script>
 
-  <title>research-diary | zszHexo</title>
+  <title>研究日志 | zszHexo</title>
   
 
 
@@ -214,7 +214,7 @@
     
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          research-diary
+          研究日志
         </h1>
 
         <div class="post-meta">
@@ -225,7 +225,7 @@
               <span class="post-meta-item-text">Posted on</span>
               
 
-              <time title="Created: 2019-11-04 00:00:00 / Modified: 11:38:53" itemprop="dateCreated datePublished" datetime="2019-11-04T00:00:00+08:00">2019-11-04</time>
+              <time title="Created: 2019-11-04 00:00:00 / Modified: 20:16:25" itemprop="dateCreated datePublished" datetime="2019-11-04T00:00:00+08:00">2019-11-04</time>
             </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -250,9 +250,19 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <h3 id="morning">Morning</h3>
+        <ul>
+<li>睡觉时间：2:30</li>
+<li>起床时间：7:30</li>
+<li>到办公室时间：8:30
+<ul>
+<li>今天坐地铁来学校，然后从地铁站走到办公室，共用时30分钟 (其中走路20分钟)。</li>
+</ul></li>
+<li>午饭: 12:20--13:00</li>
+<li>午睡：13:30--14:00</li>
+</ul>
+<h3 id="morning">Morning</h3>
 <h4 id="paper-reading">Paper reading</h4>
-<p><span class="math inline">\(\def\IR{\mathbb{R}}\def\IP{\mathbb{P}}\)</span></p>
+<p><span class="math inline">\(\def\IR{\mathbb{R}}\def\IP{\mathbb{P}}\def\IE{\mathbb{E}}\)</span></p>
 <ol type="1">
 <li><p><a href="https://arxiv.org/pdf/1611.02686.pdf" target="_blank" rel="noopener">A paper on weighted bootstrap</a></p>
 <ul>
@@ -294,8 +304,84 @@
 </ul></li>
 </ul></li>
 </ol>
+<h3 id="afternoon">Afternoon</h3>
+<h4 id="graph-problems">1. Graph problems</h4>
+<p>Consider the following configuration model:</p>
+<p>Let $G_n $ be a random graph with <span class="math inline">\(n\)</span> vertices, and for each vertex <span class="math inline">\(i\)</span>, let <span class="math inline">\(d_i\)</span> be its degree. We want to prove <span class="math inline">\(G_n \to h\)</span>, where <span class="math inline">\(h (x, y) = f(x) f(y)\)</span>, and <span class="math inline">\(f(x)\)</span> is the ''degree'' of <span class="math inline">\(x\)</span>. Construct the graph sequence as follows: let <span class="math inline">\(G_n(t)\)</span> be the graph at time <span class="math inline">\(t\)</span>, and generate <span class="math inline">\(G_n(t + 1)\)</span> by randomly picking two vertices <span class="math inline">\((i_1, i_2)\)</span> adjoint to <span class="math inline">\(j\)</span>, and then switch the types of <span class="math inline">\((i_1, j)\)</span> and <span class="math inline">\((i_2, j)\)</span> or delete <span class="math inline">\((i_1,j)\)</span> anyway.</p>
+<ul>
+<li>If we only switch the types of <span class="math inline">\((i_1, j)\)</span> and <span class="math inline">\((i_2, j)\)</span>, then it follows that the total number of the edges do not change. Let <span class="math inline">\((d_{1,t}, \dots, d_{n, t})\)</span> be the degree sequence at time <span class="math inline">\(t\)</span>, we guess that the distribution of <span class="math inline">\((d_{1,t} , \dots, d_{n,t})\)</span> does not change over time <span class="math inline">\(t\)</span>.</li>
+</ul>
+<blockquote>
+<p>Proof:</p>
+</blockquote>
 <h3 id="cheatsheets">Cheatsheets:</h3>
-<pre><code>* [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)</code></pre>
+<ul>
+<li><a href="https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5" target="_blank" rel="noopener">Essential Cheat Sheets for Machine Learning and Deep Learning Engineers</a>
+<ul>
+<li>some python and R techniques.</li>
+</ul></li>
+</ul>
+<h3 id="gmc">GMC</h3>
+<blockquote>
+<p>By Adam</p>
+</blockquote>
+<p>Let <span class="math inline">\(M_{\gamma} (A) = \int_{A} \exp \bigl( \gamma X(v) - \frac{\gamma^2}{2} \IE (X(x)^2)\bigr)\)</span> where <span class="math inline">\(\gamma^2 &lt; 2 d\)</span> and <span class="math inline">\(X(x)\)</span> is a centered Gaussian field with covariance</p>
+<p><span class="math display">\[
+K(x, y) = \log \biggl(\frac{1}{|x - y|}\biggr) + g(x, y). 
+\]</span></p>
+<p>It has been shown that <span class="math inline">\(\forall c &gt; 0\)</span> and <span class="math inline">\(p \in (-\infty, 2d/\gamma^2)\)</span>, then</p>
+<p><span class="math display">\[
+\IE \bigl\{ M_\gamma (B(0, c))^p\bigr\} &lt; \infty, 
+\]</span></p>
+<p>and suggested that</p>
+<p><span class="math display">\[
+\IP \Bigl[ M_{\gamma} ( B(0, c)) &gt; t\Bigr] \approx c t^{-2d^2/\gamma^2}.
+\]</span></p>
+<p>If <span class="math inline">\(d = 1\)</span>, <span class="math inline">\(g = 0\)</span>, Boral and Sin showed that there exists <span class="math inline">\(c &gt; 0\)</span> such that</p>
+<p><span class="math display">\[
+\lim_{t \to \infty} t^{2/\gamma^2} \IP \bigl[ M_{\gamma} (A) &gt; t\bigr] = c, 
+\]</span></p>
+<p>where <span class="math inline">\(A \subset \IR\)</span> is an interval.</p>
+<h4 id="theorem-1.-rhodes-and-vargas-2019">Theorem 1. (<strong>Rhodes and Vargas (2019)</strong>)</h4>
+<p>When <span class="math inline">\(d = 2\)</span>, <span class="math inline">\(g \equiv 0\)</span> on a <span class="math inline">\(D\)</span>-disk for <span class="math inline">\(\delta &gt; 0\)</span> sufficiently small, <span class="math inline">\(O \subset D\)</span> is open with <span class="math inline">\(C^1\)</span> boundary,</p>
+<p><span class="math display">\[
+\IP \Bigl[ M_{\gamma} (O) &gt; t\Bigr] 
+= c_\gamma \lvert O \rvert t^{-4/\delta^2} + \mathrm{o} (t^{-6/\gamma^2 - \delta }), 
+\]</span></p>
+<p>where <span class="math inline">\(c_{\gamma} = (t/\gamma^2 - 1) \bar{R} (\gamma)\)</span>.</p>
+<ul>
+<li>generalize for other dimension?</li>
+</ul>
+<h5 id="proof."><strong>Proof.</strong></h5>
+<p><strong>Step 1.</strong> Localization trick:</p>
+<p><span class="math display">\[
+\begin{aligned}
+    \IP \Bigl[ M_{\gamma}(O) &gt; t\Bigr] 
+&amp; = \IE \biggl\{ \frac{M_\gamma(O)}{M_{\gamma}(O)} \mathbf{1} \bigl( M_{\gamma} (O) &gt;
+t\bigr)\biggr\}\\
+&amp;= \int_{ O }^{  } \IE \biggl\{ e^{\gamma X(v) - \frac{\gamma^2}{2} \IE (X(v)^2)}
+\frac{1}{M_{\gamma}(O)} \mathbf{1} \bigl( M_{\gamma} (O) &gt;
+t\bigr) \biggr\} d v\\
+&amp;= \int_{ O }^{  } \IE \biggl\{\frac{1}{M_{\gamma}(O)} \mathbf{1} \bigl( M_{\gamma} (v, O) &gt;
+t\bigr) \biggr\} d v, 
+\end{aligned}
+\tag{1}
+\]</span></p>
+<p>where</p>
+<p><span class="math display">\[
+M_{\gamma} (v, O) = \int_{O} \frac{1}{ \lvert z - v \rvert^{\gamma^2}} M_{\gamma} (d z).
+\]</span></p>
+<p><strong>Step 2.</strong> As <span class="math inline">\(r &gt; 0\)</span>,</p>
+<p><span class="math display">\[
+\begin{aligned}
+    (1) &amp; \to \IE \biggl\{ \frac{1}{M_{\gamma} (v, B_r(v))} \mathbf{1} \bigl(M_{\gamma} (v, B_r(v))
+    &gt; t \bigr) \biggr\}\\
+    &amp; = r^{ 2 - \gamma^2 } \exp \Bigl\{ \gamma N_{v, r} - \frac{\gamma^2}{2} \IE N_{v, r} \Bigr\}
+    \underbrace{\int_{0}^{\infty} \exp \bigl[ \gamma \bigl( B_s - (2/\gamma - \gamma/2) s\bigr)
+    \bigr]}_{:= \bar R (\gamma)}.
+\end{aligned}
+\]</span></p>
+<p><strong>End of the proof</strong></p>
 
     </div>
 
@@ -363,7 +449,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
-          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#morning"><span class="nav-number">1.</span> <span class="nav-text">Morning</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#paper-reading"><span class="nav-number">1.1.</span> <span class="nav-text">Paper reading</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#berry--esseen-bound-for-m-estimators."><span class="nav-number">1.2.</span> <span class="nav-text">Berry--Esseen bound for \(M\) estimators.</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#cheatsheets"><span class="nav-number">2.</span> <span class="nav-text">Cheatsheets:</span></a></li></ol></div>
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#morning"><span class="nav-number">1.</span> <span class="nav-text">Morning</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#paper-reading"><span class="nav-number">1.1.</span> <span class="nav-text">Paper reading</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#berry--esseen-bound-for-m-estimators."><span class="nav-number">1.2.</span> <span class="nav-text">Berry--Esseen bound for \(M\) estimators.</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#afternoon"><span class="nav-number">2.</span> <span class="nav-text">Afternoon</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#graph-problems"><span class="nav-number">2.1.</span> <span class="nav-text">1. Graph problems</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#cheatsheets"><span class="nav-number">3.</span> <span class="nav-text">Cheatsheets:</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#gmc"><span class="nav-number">4.</span> <span class="nav-text">GMC</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#theorem-1.-rhodes-and-vargas-2019"><span class="nav-number">4.1.</span> <span class="nav-text">Theorem 1. (Rhodes and Vargas (2019))</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#proof."><span class="nav-number">4.1.1.</span> <span class="nav-text">Proof.</span></a></li></ol></li></ol></li></ol></div>
       </div>
       <!--/noindex-->
 
@@ -392,7 +478,7 @@
       <div class="site-state-item site-state-tags">
             <a href="/zszhexo.github.io/tags/">
           
-        <span class="site-state-item-count">7</span>
+        <span class="site-state-item-count">6</span>
         <span class="site-state-item-name">tags</span></a>
       </div>
   </nav>
