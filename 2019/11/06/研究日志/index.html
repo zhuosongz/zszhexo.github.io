@@ -59,7 +59,7 @@
 <meta property="og:site_name" content="zszHexo">
 <meta property="og:description" content="\(\def\I{\mathbf{1}}\)  睡觉时间：12:00 起床时间：7:40 到办公室时间：8:25   今天改坐198路公交，会快一些。一不用倒车，二速度也快一些，三来班次也多一些。以后可以考虑坐这一班。  待办事项    早起    读Adrian的文章 （8:45--9:30）    考虑一个集中不等(用Stein method和Adrian的idea.)(9:40--11:00">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-11-06T11:30:55.473Z">
+<meta property="og:updated_time" content="2019-11-06T14:04:39.302Z">
 <meta name="twitter:card" content="summary">
 
 <link rel="canonical" href="zhuosongz.github.io/zszhexo.github.io/2019/11/06/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/">
@@ -225,7 +225,7 @@
               <span class="post-meta-item-text">Posted on</span>
               
 
-              <time title="Created: 2019-11-06 08:26:14 / Modified: 19:30:55" itemprop="dateCreated datePublished" datetime="2019-11-06T08:26:14+08:00">2019-11-06</time>
+              <time title="Created: 2019-11-06 08:26:14 / Modified: 22:04:39" itemprop="dateCreated datePublished" datetime="2019-11-06T08:26:14+08:00">2019-11-06</time>
             </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -341,7 +341,7 @@ I_v (m, \pi).
 <p>Consider the inhomogeneous random graph models, and specifically, consider the so called <em>generalized random graph</em> which is firstly introduced by Britton, Deijfen and Martin-Lof. In the genralized random graph model, the edge probability of the edge between vertices <span class="math inline">\(i\)</span> and <span class="math inline">\(j\)</span>, is equal to</p>
 <p><span class="math display">\[
 p_{ij} = \frac{w_i w_j}{\ell_n + w_i w_j}, 
-\tag{p}
+\tag{$*$}
 \label{p}
 \]</span> where <span class="math inline">\(\mathbf w = (w_i)_{i \in [n]}\)</span> are the vertex weights, and <span class="math inline">\(\ell_n\)</span> is the total weight of all vertices given by <span class="math display">\[
 \ell_n = \sum_{i \in [n]} w_i.
@@ -357,18 +357,54 @@ p_{ij} = \frac{w_i w_j}{\ell_n + w_i w_j},
 <p>The GRG with edge probabilities <span class="math inline">\((p_{ij})_{1 \leq i &lt; j \leq n}\)</span> given by (<span class="math inline">\(\ref{p}\)</span>) conditional on <span class="math inline">\(\{d_i(X) = d_i, \, \forall i \in [n]\}\)</span> is uniform over all graphs with degree sequence <span class="math inline">\((d_i)_{i \in [n]}\)</span>.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
 <p>This theorem and proof can be found at <a href="https://www.win.tue.nl/~rhofstad/NotesRGCN2013.pdf" target="_blank" rel="noopener">Random Graphs and Complex Networks</a> by Remco van der Hofstad.</p>
 </div>
+<p>We have for <span class="math inline">\(x = (x_{ij})_{1 \leq i &lt; j \leq n}\)</span>,</p>
+<p><span class="math display">\[
+\mathbb{P} [X_{ij} = 1] = 1 - \mathbb P [X_{ij} = 0] = p_{ij}, 
+\]</span> where <span class="math inline">\(p_{ij}\)</span> is given in <span class="math inline">\(\eqref{p}\)</span>. Then, with <span class="math inline">\(q_{ij} = 1 - p_{ij}\)</span>,</p>
+<p><span class="math display">\[
+\mathbb P [X = x] = \prod_{1 \leq i &lt; j \leq n} p_{ij}^{x_{ij}} q_{ij}^{1 - x_{ij}}. 
+\]</span></p>
+<p>We define</p>
+<p><span class="math display">\[
+r_{ij} = \frac{p_{ij}}{q_{ij}}. 
+\]</span></p>
+<p>Then</p>
+<p><span class="math display">\[
+\mathbb P [X = x] = \prod_{1 \leq i &lt; j \leq n} \frac{1}{1 + r_{ij}} \prod_{1 \leq i &lt; j \leq n} r_{ij}^{x_{ij}}. 
+\]</span></p>
+<p>Note that</p>
+<p><span class="math display">\[
+r_{ij} = u_i u_j, \quad u_i = \frac{w_i}{\sqrt{\ell_n}}, 
+\]</span> and then <span class="math display">\[
+p_{ij} = \frac{r_{ij}}{1 + r_{ij}} = \frac{w_i w_j}{\ell_n + w_i w_j}. 
+\]</span> With <span class="math display">\[
+G(u) = \prod_{1 \leq i &lt; j \leq n} (1 + u_i u_j), 
+\]</span></p>
+<p>we obtain</p>
+<p><span class="math display">\[
+\mathbb P [ X = x ] = G(u)^{-1} \prod_{1 \leq i &lt; j \leq n} (u_i u_j)^{x_{ij}} 
+= G(u)^{-1} \prod_{i \in [n]} u_i^{d_i(x)},
+\]</span> where <span class="math inline">\(d_i(x)\)</span> is the degree.</p>
+<p>Therefore,</p>
+<p><span class="math display">\[
+\prod_{1 \leq i &lt; j \leq n} (1 + u_i u_j) = G(u) = \sum_{x} \prod_{i \in [n]} u_i^{d_i(x)}.
+\]</span></p>
 </div>
 <h3 id="另一个有用的课程stochastic-processes-on-graphs"><a href="https://web.stanford.edu/~montanar/TEACHING/Stat316/stat316.html" target="_blank" rel="noopener">另一个有用的课程：Stochastic processes on graphs</a></h3>
+<blockquote>
 <ul>
 <li>By A. Dembo</li>
 </ul>
+</blockquote>
 <p>There are some topics in this course.</p>
+<div class="note info">
 <ul>
 <li><p><a href="http://web.stanford.edu/~montanar/RESEARCH/FILEPAP/full-version.pdf" target="_blank" rel="noopener">Gibbs Measures and Phase Transitions on Sparse Random Graphs</a>.</p></li>
 <li><p><a href="http://web.stanford.edu/~montanar/OTHER/STATMECH/stflour.pdf" target="_blank" rel="noopener">Statistical Mechanics and Algorithms on Sparse and Random Graphs, by Andrea Montanari</a></p>
 <p>In this note, some classical statistical physics models are discussed.</p></li>
 <li><p><a href="https://arxiv.org/pdf/1211.1094.pdf" target="_blank" rel="noopener">The Sherrington-Kirkpatrick model: an overview</a>.</p></li>
 </ul>
+</div>
 <section class="footnotes" role="doc-endnotes">
 <hr />
 <ol>
