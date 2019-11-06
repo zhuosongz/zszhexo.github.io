@@ -51,13 +51,15 @@
   };
 </script>
 
-  <meta name="keywords" content="research">
+  <meta name="description" content="\(\def\I{\mathbf{1}}\)  睡觉时间：12:00 起床时间：7:40 到办公室时间：8:25   今天改坐198路公交，会快一些。一不用倒车，二速度也快一些，三来班次也多一些。以后可以考虑坐这一班。  待办事项    早起    读Adrian的文章 （8:45--9:30）    考虑一个集中不等(用Stein method和Adrian的idea.)(9:40--11:00">
+<meta name="keywords" content="research">
 <meta property="og:type" content="article">
 <meta property="og:title" content="研究日志">
 <meta property="og:url" content="zhuosongz.github.io&#x2F;zszhexo.github.io&#x2F;2019&#x2F;11&#x2F;06&#x2F;%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97&#x2F;index.html">
 <meta property="og:site_name" content="zszHexo">
+<meta property="og:description" content="\(\def\I{\mathbf{1}}\)  睡觉时间：12:00 起床时间：7:40 到办公室时间：8:25   今天改坐198路公交，会快一些。一不用倒车，二速度也快一些，三来班次也多一些。以后可以考虑坐这一班。  待办事项    早起    读Adrian的文章 （8:45--9:30）    考虑一个集中不等(用Stein method和Adrian的idea.)(9:40--11:00">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-11-06T00:27:43.029Z">
+<meta property="og:updated_time" content="2019-11-06T11:30:55.473Z">
 <meta name="twitter:card" content="summary">
 
 <link rel="canonical" href="zhuosongz.github.io/zszhexo.github.io/2019/11/06/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/">
@@ -223,7 +225,7 @@
               <span class="post-meta-item-text">Posted on</span>
               
 
-              <time title="Created: 2019-11-06 08:26:14 / Modified: 08:27:43" itemprop="dateCreated datePublished" datetime="2019-11-06T08:26:14+08:00">2019-11-06</time>
+              <time title="Created: 2019-11-06 08:26:14 / Modified: 19:30:55" itemprop="dateCreated datePublished" datetime="2019-11-06T08:26:14+08:00">2019-11-06</time>
             </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -248,7 +250,131 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        
+        <p><span class="math inline">\(\def\I{\mathbf{1}}\)</span></p>
+<ul>
+<li>睡觉时间：12:00</li>
+<li>起床时间：7:40</li>
+<li>到办公室时间：8:25</li>
+</ul>
+<blockquote>
+<p>今天改坐198路公交，会快一些。一不用倒车，二速度也快一些，三来班次也多一些。以后可以考虑坐这一班。</p>
+</blockquote>
+<h2 id="待办事项">待办事项</h2>
+<ul>
+<li>
+<i class="fa fa-check-square"></i> 早起
+</li>
+<li>
+<i class="fa fa-check-square"></i> 读Adrian的文章 （8:45--9:30）
+</li>
+<li>
+<i class="fa fa-square"></i> 考虑一个集中不等(用Stein method和Adrian的idea.)(9:40--11:00)
+</li>
+<li>
+<i class="fa fa-square"></i> 改一改多元文章
+</li>
+<li>
+<i class="fa fa-square"></i> 待定
+</li>
+<li>
+<i class="fa fa-square"></i> 待定
+</li>
+<li>
+<i class="fa fa-square"></i> 待定
+</li>
+<li>
+<i class="fa fa-square"></i> 待定
+</li>
+<li>
+<i class="fa fa-square"></i> 待定
+</li>
+</ul>
+<h2 id="adrians-paper">1. Adrian's paper</h2>
+<p><a href="https://arxiv.org/pdf/1903.09319.pdf" target="_blank" rel="noopener">The paper</a> is written by Louis H. Y. Chen, Larry Goldstein and Adrian Rollin.</p>
+<p>The model is:</p>
+<div class="note success no-icon">
+<p>Consider the Erdos-Renyi random graph <span class="math inline">\(\mathcal{G}_n\sim \mathrm{ER}(n,m)\)</span> on <span class="math inline">\(n\)</span> vertices, having exactly <span class="math inline">\(m\)</span> edges, distributed uniformly at random. Let <span class="math inline">\(d_v\)</span> be the degree of vertex <span class="math inline">\(v \in [n]\)</span>, and consider the number of isolated vertices</p>
+<p><span class="math display">\[
+    Y= \sum_{v=1}^n \mathbf{1}[d_v = 0].
+\]</span></p>
+<p>With <span class="math inline">\(N=\binom{n}{2}\)</span>, the mean and variance of <span class="math inline">\(Y\)</span> are given by, respectively,</p>
+<p><span class="math display">\[
+\mu_{n,m}
+    = n\frac{\binom{N-(n-1)}{m}}{\binom{N}{m}}
+\]</span></p>
+<p>and</p>
+<p><span class="math display">\[
+\sigma^2_{n,m} = \mu_{n,m} + n(n-1)\frac{\binom{N-(2n-3)}{m}}{\binom{N}{m}} - \mu_{n,m}^2.
+\]</span></p>
+</div>
+<p>We construct the coupling as follows:</p>
+<div class="note primary no-icon">
+<p>Let</p>
+<p><span class="math display">\[
+\mathcal{E}_n = \bigl\{ \{1,2\}, \dots, \{n-1, n\}\bigr\}.
+\]</span></p>
+<p>In what follows, for such a <span class="math inline">\(\{v,w\}\)</span> pair, <span class="math inline">\(e_{vw}\)</span> will denote the position of the pair <span class="math inline">\(\{v,w\}\)</span> in the ordered sequence specified by~<span class="math inline">\(\mathcal{E}_n\)</span>, for instance, <span class="math inline">\(e_{1,2}=1\)</span> and <span class="math inline">\(e_{1,3}=2\)</span>.</p>
+<p>Let <span class="math inline">\(\pi\)</span> be a uniformly chosen random permutation of <span class="math inline">\([N]\)</span>, and we will construct a graph <span class="math inline">\(\mathcal{G}(m, \pi)\)</span>, determined by <span class="math inline">\(m\)</span> and <span class="math inline">\(\pi\)</span>, and has the same distribution as <span class="math inline">\(\mathrm{ER} (n, m)\)</span>.</p>
+<p><strong>How to construct the graph</strong> <span class="math inline">\(\mathcal{G}(m,\pi)\)</span>?</p>
+<p>For each <span class="math inline">\(\{v,w\} \subset [n]\)</span> with <span class="math inline">\(v &lt; w\)</span>, connect vertices <span class="math inline">\(v\)</span> and <span class="math inline">\(w\)</span> with an edge if and only if <span class="math inline">\(\pi^{-1} (e_{vw}) \leq m\)</span>, where <span class="math inline">\(e_{vw}\)</span> is the ordered number of the edge <span class="math inline">\(\bigl\{v, w\bigr\}\)</span>.</p>
+<p>Then <span class="math inline">\(\mathcal{G}(m,\pi)\)</span> follows the <span class="math inline">\(\mathrm{ER}(n,m)\)</span> model.</p>
+<p>Let <span class="math inline">\(d_{v}(m, \pi)\)</span> be the degree of vertex <span class="math inline">\(v \in [n]\)</span> in <span class="math inline">\(\mathcal{G}(m, \pi)\)</span>, let</p>
+<p><span class="math display">\[
+I_v (m, \pi) = \I \bigl[d_{v}(m, \pi) = 0\bigr] \quad  \text{and} \quad Y_{m, \pi} = \sum_{v = n }
+I_v (m, \pi).  
+\]</span></p>
+<p>We first describe the algorithm in words: For each given vertex <span class="math inline">\(v ∈ [n]\)</span>, begin with <span class="math inline">\(G(m, \pi)\)</span> and relocate the <span class="math inline">\(d_v(m, \pi)\)</span> edges incident to <span class="math inline">\(v\)</span> uniformly by, starting with <span class="math inline">\(i = 1\)</span> and incrementing when needed, adding <span class="math inline">\(\mathcal{E}_n(\sigma_v(i))\)</span> as a new edge when it connects two vertices, neither of which are incident to <span class="math inline">\(v\)</span> (Step 6), and which are not already connected (Step 7). The counter <span class="math inline">\(k\)</span> records the number of edges successfully relocated, and the set <span class="math inline">\(L^v(m, π, \sigma_v)\)</span> holds their locations, or indices, in <span class="math inline">\(\mathcal E_n\)</span>. At termination, the set <span class="math inline">\(L^v(m, \pi, \sigma_v)\)</span> will have size <span class="math inline">\(d_v(m, \pi)\)</span>.</p>
+</div>
+<div class="note danger no-icon" style="font-family:STKaiti">
+<p>
+<p>这个用处好像并不是很大，需要再重新考虑考虑。</p>
+<p>或者就是没有找对文章。下午再考虑考虑。</p>
+</p>
+</div>
+<h3 id="一个有用的讲义">一个有用的讲义</h3>
+<ul>
+<li><a href="https://www.win.tue.nl/~rhofstad/SaintFlour_SPoRG.pdf" target="_blank" rel="noopener">https://www.win.tue.nl/~rhofstad/SaintFlour_SPoRG.pdf</a></li>
+</ul>
+<div class="note info">
+<p>Page 12--13.</p>
+<p><b>1. Generalized random graph conditioned on its degrees</b></p>
+<p>Consider the inhomogeneous random graph models, and specifically, consider the so called <em>generalized random graph</em> which is firstly introduced by Britton, Deijfen and Martin-Lof. In the genralized random graph model, the edge probability of the edge between vertices <span class="math inline">\(i\)</span> and <span class="math inline">\(j\)</span>, is equal to</p>
+<p><span class="math display">\[
+p_{ij} = \frac{w_i w_j}{\ell_n + w_i w_j}, 
+\tag{p}
+\label{p}
+\]</span> where <span class="math inline">\(\mathbf w = (w_i)_{i \in [n]}\)</span> are the vertex weights, and <span class="math inline">\(\ell_n\)</span> is the total weight of all vertices given by <span class="math display">\[
+\ell_n = \sum_{i \in [n]} w_i.
+\]</span></p>
+<p>Denote the resulting graph by <span class="math inline">\(\mathrm{GRG}_n(\mathbf w)\)</span>.</p>
+<p><strong>2. Independent and identically distributed weights.</strong> The generalized random graph can be studied both with deterministic weights as well as with independent and identically distributed (i.i.d.) weights. Since we often deal with ratios of the form</p>
+<p><span class="math display">\[\frac{w_iw_j}{\sum_{k \in [n]} w_k},\]</span></p>
+<p>we assume that <span class="math inline">\(\mathbb P[w = 0] = 0\)</span> to avoid situations where all weights are zero</p>
+<p>The great advantage of i.i.d. weights is that the vertices in the resulting graph are, in distribution, the same. More precisely, the vertices are completely exchangeable, like in the Erdos-Renyi random graph <span class="math inline">\(\mathrm{ER}_n(p)\)</span>. Unfortunately, when we take the weights to be i.i.d., then in the resulting graph the edges are no longer independent.</p>
+<p>The generalized random graph with its edge probabilities is rather special. Indeed, when we condition on its degree sequence, then the graph has a uniform distribution over the set of all graphs with the same degree sequence.</p>
+<div class="note success">
+<p><strong>Theorem.</strong> (GRG conditional on degrees has uniform law).</p>
+<p>The GRG with edge probabilities <span class="math inline">\((p_{ij})_{1 \leq i &lt; j \leq n}\)</span> given by (<span class="math inline">\(\ref{p}\)</span>) conditional on <span class="math inline">\(\{d_i(X) = d_i, \, \forall i \in [n]\}\)</span> is uniform over all graphs with degree sequence <span class="math inline">\((d_i)_{i \in [n]}\)</span>.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+<p>This theorem and proof can be found at <a href="https://www.win.tue.nl/~rhofstad/NotesRGCN2013.pdf" target="_blank" rel="noopener">Random Graphs and Complex Networks</a> by Remco van der Hofstad.</p>
+</div>
+</div>
+<h3 id="另一个有用的课程stochastic-processes-on-graphs"><a href="https://web.stanford.edu/~montanar/TEACHING/Stat316/stat316.html" target="_blank" rel="noopener">另一个有用的课程：Stochastic processes on graphs</a></h3>
+<ul>
+<li>By A. Dembo</li>
+</ul>
+<p>There are some topics in this course.</p>
+<ul>
+<li><p><a href="http://web.stanford.edu/~montanar/RESEARCH/FILEPAP/full-version.pdf" target="_blank" rel="noopener">Gibbs Measures and Phase Transitions on Sparse Random Graphs</a>.</p></li>
+<li><p><a href="http://web.stanford.edu/~montanar/OTHER/STATMECH/stflour.pdf" target="_blank" rel="noopener">Statistical Mechanics and Algorithms on Sparse and Random Graphs, by Andrea Montanari</a></p>
+<p>In this note, some classical statistical physics models are discussed.</p></li>
+<li><p><a href="https://arxiv.org/pdf/1211.1094.pdf" target="_blank" rel="noopener">The Sherrington-Kirkpatrick model: an overview</a>.</p></li>
+</ul>
+<section class="footnotes" role="doc-endnotes">
+<hr />
+<ol>
+<li id="fn1" role="doc-endnote"><p>R. v. d. Hofstad. Random graphs and complex networks. Volume 1. Cambridge Series in Statistical and Probabilistic Mathematics. Cambridge University Press, Cambridge, (2017).<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
 
     </div>
 
@@ -273,6 +399,9 @@
             <span class="post-nav-divider"></span>
 
             <div class="post-nav-prev post-nav-item">
+                <a href="/zszhexo.github.io/2019/11/06/hello-world/" rel="prev" title="Hello World">
+                  Hello World <i class="fa fa-chevron-right"></i>
+                </a>
             </div>
           </div>
       </footer>
@@ -311,6 +440,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#待办事项"><span class="nav-number">1.</span> <span class="nav-text">待办事项</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#adrians-paper"><span class="nav-number">2.</span> <span class="nav-text">1. Adrian&#39;s paper</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#一个有用的讲义"><span class="nav-number">2.1.</span> <span class="nav-text">一个有用的讲义</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#另一个有用的课程stochastic-processes-on-graphs"><span class="nav-number">2.2.</span> <span class="nav-text">另一个有用的课程：Stochastic processes on graphs</span></a></li></ol></li></ol></div>
       </div>
       <!--/noindex-->
 
