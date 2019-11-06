@@ -6,7 +6,7 @@
   <link href="/zszhexo.github.io/atom.xml" rel="self"/>
   
   <link href="zhuosongz.github.io/zszhexo.github.io/"/>
-  <updated>2019-11-05T15:54:55.654Z</updated>
+  <updated>2019-11-06T00:27:43.029Z</updated>
   <id>zhuosongz.github.io/zszhexo.github.io/</id>
   
   <author>
@@ -18,12 +18,39 @@
   
   <entry>
     <title>研究日志</title>
+    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/06/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/06/研究日志/</id>
+    <published>2019-11-06T00:26:14.000Z</published>
+    <updated>2019-11-06T00:27:43.029Z</updated>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+
+      
+    
+    </summary>
+    
+    
+      <category term="研究日志" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="research" scheme="zhuosongz.github.io/zszhexo.github.io/tags/research/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>研究日志</title>
     <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/05/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
     <id>zhuosongz.github.io/zszhexo.github.io/2019/11/05/研究日志/</id>
     <published>2019-11-05T15:47:42.000Z</published>
-    <updated>2019-11-05T15:54:55.654Z</updated>
+    <updated>2019-11-06T00:25:51.540Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>昨晚睡觉时间：12:00</li><li>起床时间：7:45</li><li>到办公室时间：8:30</li></ul><p>今天坐公交去办公室，事实证明，会堵车。尤其是刚错过一班车，就要等10分钟。</p><p>早上考虑方老师的问题，我觉得题目有点问题。</p><p>下午考虑Roellin的问题，还是没有太多头绪。</p><p>晚上考虑一个多维Berry--Esseen bound的问题。凸集还是很难考虑。称 <span class="math inline">\(f(x):\mathbb{R}^d \mapsto \mathbb{R}\)</span> 是增的： <span class="math display">\[    \langle f(x) - f(y), x - y \langle \geq 0.\]</span> 希望做到：对于任意的一个<span class="math inline">\(i\)</span>, <span class="math inline">\(f(w)\)</span>是 Stein 方程的解，</p><p><span class="math display">\[\nabla_i f(w)\]</span></p><p>是增的。</p>]]></content>
+    <content type="html"><![CDATA[<ul><li>昨晚睡觉时间：12:00</li><li>起床时间：7:45</li><li>到办公室时间：8:30</li></ul><p>今天坐公交去办公室，事实证明，会堵车。尤其是刚错过一班车，就要等10分钟。</p><p>早上考虑方老师的问题，我觉得题目有点问题。</p><p>下午考虑Roellin的问题，还是没有太多头绪。</p><p>晚上考虑一个多维Berry--Esseen bound的问题。凸集还是很难考虑。称 <span class="math inline">\(f(x):\mathbb{R}^d \mapsto \mathbb{R}\)</span> 是增的： <span class="math display">\[    \langle f(x) - f(y), x - y \rangle \geq 0.\]</span> 希望做到：对于任意的一个<span class="math inline">\(i\)</span>, <span class="math inline">\(f(w)\)</span>是 Stein 方程的解，</p><p><span class="math display">\[\nabla_i f(w)\]</span></p><p>是增的。</p>]]></content>
     
     <summary type="html">
     
