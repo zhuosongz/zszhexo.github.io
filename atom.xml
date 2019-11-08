@@ -6,7 +6,7 @@
   <link href="/zszhexo.github.io/atom.xml" rel="self"/>
   
   <link href="zhuosongz.github.io/zszhexo.github.io/"/>
-  <updated>2019-11-07T16:35:23.786Z</updated>
+  <updated>2019-11-08T14:10:00.337Z</updated>
   <id>zhuosongz.github.io/zszhexo.github.io/</id>
   
   <author>
@@ -18,10 +18,46 @@
   
   <entry>
     <title>研究日志</title>
+    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/08/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/08/研究日志/</id>
+    <published>2019-11-08T00:32:18.000Z</published>
+    <updated>2019-11-08T14:10:00.337Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>睡觉时间：12:00</li><li>起床时间：7:40</li><li>到办公室时间：8:25</li></ul><h2 id="cheatsheet">cheatsheet</h2><h4 id="新建一个hexo-page如何自动打开">新建一个hexo page，如何自动打开？</h4><p>在<code>hexo主页/scripts</code>文件夹里新建一个脚本文件叫做<code>AutoOpenEditor.js</code>（也可以是其他名字），内容如下：</p><figure class="highlight coffeescript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">let spawn = <span class="built_in">require</span>(<span class="string">'hexo-util/lib/spawn'</span>);</span><br><span class="line"></span><br><span class="line">hexo.<span class="literal">on</span>(<span class="string">'new'</span>, <span class="function"><span class="params">(data)</span> =&gt;</span> &#123;</span><br><span class="line">  spawn(<span class="string">'C:/\Program Files/\Typora/\Typora.exe'</span>, [data.path]);</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure><h4 id="mac-终端里怎么快速删除一行命令">mac 终端里，怎么快速删除一行命令？</h4><p><code>ctrl+u</code></p><h2 id="早上">早上</h2><ul><li><a href="https://onlinelibrary-wiley-com.libproxy1.nus.edu.sg/doi/pdf/10.1111/j.1467-9574.2010.00469.x" target="_blank" rel="noopener">Moment convergence of M-estimators (2010)</a> by Yoichi Nishiyama. This is a very short paper consisting only one theorem about the moment convergence of M estimators. However, his condition seems to be too strong since it requires the moments of the empirical process of all orders exist.</li></ul><h2 id="下午">下午</h2><pre><code>下午继续计算。整理结果在笔记本上。明天继续整理。</code></pre><h2 id="晚上">晚上</h2><pre><code>晚上有点疲倦，状态不佳，回家早点休息。现在10点，准备睡觉。</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;睡觉时间：12:00&lt;/li&gt;
+&lt;li&gt;起床时间：7:40&lt;/li&gt;
+&lt;li&gt;到办公室时间：8:25&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;cheatsheet&quot;&gt;cheatsheet&lt;/h2&gt;
+&lt;h4 id=&quot;新建一个hexo-page如何自动打开&quot;&gt;新建一个
+      
+    
+    </summary>
+    
+    
+      <category term="研究日志" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="M estimator" scheme="zhuosongz.github.io/zszhexo.github.io/tags/M-estimator/"/>
+    
+      <category term="nonliear statistics" scheme="zhuosongz.github.io/zszhexo.github.io/tags/nonliear-statistics/"/>
+    
+      <category term="cheatsheet" scheme="zhuosongz.github.io/zszhexo.github.io/tags/cheatsheet/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>研究日志</title>
     <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/07/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
     <id>zhuosongz.github.io/zszhexo.github.io/2019/11/07/研究日志/</id>
     <published>2019-11-07T15:02:10.000Z</published>
-    <updated>2019-11-07T16:35:23.786Z</updated>
+    <updated>2019-11-08T00:25:27.896Z</updated>
     
     <content type="html"><![CDATA[<ul><li>睡觉时间：12:00</li><li>起床时间：7:40</li><li>到办公室时间：8:20</li></ul><h2 id="上午">上午</h2><p>读随机图的文章，参考昨天的链接: <a href="https://www.win.tue.nl/~rhofstad/NotesRGCN2013.pdf" target="_blank" rel="noopener">Random Graphs and Complex Networks</a> by Remco van der Hofstad.</p><ul><li><p>Configuration models;</p></li><li><p>General random graph (GRG)</p></li><li><p>uniformly distributed conditional on the degree sequence</p></li><li><p>Degree sequence of GRG</p></li><li><p>The distribution of the degree are asymptotically independent with mixed Poisson distribution</p></li><li><p>The law of the Configuration Model (CM (d))</p></li></ul><h2 id="下午">下午</h2><p>本来有Adrian的讨论班，但是临时取消了。与几个博士生讨论一下深度学习（Deep Learning）的问题，了解了几个基本问题。</p><p>读M统计量的文章。今列举如下：</p><ol type="1"><li>Matsuda (1981): 1-dim case</li><li>Pfanzagl (1973): 多维，但是考虑的是一个Asymptotic minimum contract estimators, 虽然速度可以最优，但条件太强。</li><li>Paulauskas (1996): 速度是 <span class="math inline">\(\log n / \sqrt{n}\)</span>, 对于Huber estimator: 只有 <span class="math inline">\(n^{-1/4} \log n\)</span>.</li><li>Benkus, Blozenelis and Gotze (1997):<ul><li><p>--<strong>一维</strong>-- 情形</p></li><li><p>假设了：</p><div class="note danger no-icon"><span class="math display">\[ \begin{gathered}  \mathbb{P} [ Q_N(t) \text{ is convex on  } (t_0 - \delta, t_0 + \delta) ] \geq 1 - B N^{-1/2}, \\  \mathbb P [ | t_N - t_0 | \geq \delta  ] \leq A N^{-1/2}, \end{gathered} \]</span></div></li><li><p>结果：</p><div class="note primary no-icon"><span class="math display">\[d_K \leq C N^{-1/2} \quad \text{provided that } N / \log N \geq \text{ some constant. } \]</span></div></li></ul></li><li>J. Huang's note in early years: M estimators, we can consider some conditions inside.</li><li>Niwmiro (1992): M estimator for convex functions.</li></ol><p>另外也找了几个文章和讲义，放在了MLE的文件夹下。</p>]]></content>
     
