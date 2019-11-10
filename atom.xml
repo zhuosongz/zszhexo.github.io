@@ -6,7 +6,7 @@
   <link href="/zszhexo.github.io/atom.xml" rel="self"/>
   
   <link href="zhuosongz.github.io/zszhexo.github.io/"/>
-  <updated>2019-11-08T14:10:00.337Z</updated>
+  <updated>2019-11-10T12:20:55.459Z</updated>
   <id>zhuosongz.github.io/zszhexo.github.io/</id>
   
   <author>
@@ -17,13 +17,75 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>一周总结</title>
+    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/10/%E4%B8%80%E5%91%A8%E6%80%BB%E7%BB%93/"/>
+    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/10/一周总结/</id>
+    <published>2019-11-10T11:56:43.000Z</published>
+    <updated>2019-11-10T12:20:55.459Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天写个一周的总结。</p><p>上周总的来说，有好的地方，有不如人意的地方。好的地方在于，能保持早起，并且在8:30左右到办公室（唯有周四，错过了一班车，晚了五分钟）。</p><p>前三天，整体还行，状态都还不错，周四和周五，下午和晚上会犯困，状态也不是很好。这是因为晚上睡的晚的缘故。以后需要调整。</p><p>另外一个，要制定严格的计划，具体到每个小时，不然还是容易走神和分心。为了这一点，我安装了一个插件，把容易分神的几个网站统统给屏蔽了，希望可以起点作用。</p><p>每天具体一个小时（比如下午4:00-5:00）写一点东西，打成latex. 不是仅仅在草稿上演算，而是把一些东西写出来。不要求具体的证明过程，而是先写出来一个大概框架，然后证明过程再往里面填。这样会节省时间，减少拖延的可能性。</p><p>下周的目标：</p><ol type="1"><li><p>写好非线性的文章，把例子整理好。这个是个大项目，需要分解成几个小块，每天看情况来确定第二天的计划。</p></li><li><p>马氏过程的文章，可以起头了。</p></li><li><p>随机图的问题，要继续考虑。</p></li><li><p>写一写材料。</p></li></ol><p>明天目标和计划：</p><ol type="1"><li><p>8:30--9:30: 确定M-statistics例子中的常数跟d的关系。</p></li><li><p>9:40--10:50: 随机图的问题。</p></li><li><p>11:00--12:00: 考虑exchangeable pair的集中不等式问题。怎么构造？</p></li><li><p>2:00--3:00: 改正原来非线性文章里的一些问题。检查。</p></li><li><p>3:00--3:50: exchangeable pair的集中不等式。</p></li><li><p>4:00--5:30: GMC讨论班。</p></li><li><p>7:00--8:30: 马氏过程的文件起草。</p></li><li><p>8:40: 回家。</p></li><li><p>10:00: 睡觉，第二天争取7:00起床。</p></li></ol><h3 id="昨天的梦">昨天的梦</h3><p>最近还经常做梦。</p><p>早上醒来之前做了一个奇怪的梦，梦见在一个地方跟几个老外讲汉语的四个声调，然后又说到中国的月份。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天写个一周的总结。&lt;/p&gt;
+&lt;p&gt;上周总的来说，有好的地方，有不如人意的地方。好的地方在于，能保持早起，并且在8:30左右到办公室（唯有周四，错过了一班车，晚了五分钟）。&lt;/p&gt;
+&lt;p&gt;前三天，整体还行，状态都还不错，周四和周五，下午和晚上会犯困，状态也不是很好。这是因为
+      
+    
+    </summary>
+    
+    
+      <category term="总结" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E6%80%BB%E7%BB%93/"/>
+    
+    
+      <category term="总结" scheme="zhuosongz.github.io/zszhexo.github.io/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>研究日志：M-统计量，原来也可以做！</title>
+    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/09/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97%EF%BC%9Am-%E7%BB%9F%E8%AE%A1%E9%87%8F%EF%BC%8C%E5%8E%9F%E6%9D%A5%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%81%9A%EF%BC%81/"/>
+    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/09/研究日志：m-统计量，原来也可以做！/</id>
+    <published>2019-11-09T03:55:58.000Z</published>
+    <updated>2019-11-09T06:43:42.960Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="日常作息">日常作息</h2><ul><li>睡觉：11:00</li><li>起床：8:30</li><li>到办公室：9：30</li></ul><h2 id="上午">上午</h2><ul><li><p>继续整理M 统计量的相关细节问题：</p><ul><li>矩阵的norm的问题集中不等式和矩不等式。</li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;日常作息&quot;&gt;日常作息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;睡觉：11:00&lt;/li&gt;
+&lt;li&gt;起床：8:30&lt;/li&gt;
+&lt;li&gt;到办公室：9：30&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;上午&quot;&gt;上午&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;继续整理M 统计量的相关细节问题：&lt;/
+      
+    
+    </summary>
+    
+    
+      <category term="研究日志" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="M statistics" scheme="zhuosongz.github.io/zszhexo.github.io/tags/M-statistics/"/>
+    
+  </entry>
+  
+  <entry>
     <title>研究日志</title>
     <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/08/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
     <id>zhuosongz.github.io/zszhexo.github.io/2019/11/08/研究日志/</id>
     <published>2019-11-08T00:32:18.000Z</published>
-    <updated>2019-11-08T14:10:00.337Z</updated>
+    <updated>2019-11-09T03:55:41.255Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>睡觉时间：12:00</li><li>起床时间：7:40</li><li>到办公室时间：8:25</li></ul><h2 id="cheatsheet">cheatsheet</h2><h4 id="新建一个hexo-page如何自动打开">新建一个hexo page，如何自动打开？</h4><p>在<code>hexo主页/scripts</code>文件夹里新建一个脚本文件叫做<code>AutoOpenEditor.js</code>（也可以是其他名字），内容如下：</p><figure class="highlight coffeescript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">let spawn = <span class="built_in">require</span>(<span class="string">'hexo-util/lib/spawn'</span>);</span><br><span class="line"></span><br><span class="line">hexo.<span class="literal">on</span>(<span class="string">'new'</span>, <span class="function"><span class="params">(data)</span> =&gt;</span> &#123;</span><br><span class="line">  spawn(<span class="string">'C:/\Program Files/\Typora/\Typora.exe'</span>, [data.path]);</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure><h4 id="mac-终端里怎么快速删除一行命令">mac 终端里，怎么快速删除一行命令？</h4><p><code>ctrl+u</code></p><h2 id="早上">早上</h2><ul><li><a href="https://onlinelibrary-wiley-com.libproxy1.nus.edu.sg/doi/pdf/10.1111/j.1467-9574.2010.00469.x" target="_blank" rel="noopener">Moment convergence of M-estimators (2010)</a> by Yoichi Nishiyama. This is a very short paper consisting only one theorem about the moment convergence of M estimators. However, his condition seems to be too strong since it requires the moments of the empirical process of all orders exist.</li></ul><h2 id="下午">下午</h2><pre><code>下午继续计算。整理结果在笔记本上。明天继续整理。</code></pre><h2 id="晚上">晚上</h2><pre><code>晚上有点疲倦，状态不佳，回家早点休息。现在10点，准备睡觉。</code></pre>]]></content>
+    <content type="html"><![CDATA[<ul><li>睡觉时间：12:00</li><li>起床时间：7:40</li><li>到办公室时间：8:25</li></ul><h2 id="cheatsheet">cheatsheet</h2><h4 id="新建一个hexo-page如何自动打开">新建一个hexo page，如何自动打开？</h4><p>在<code>hexo主页/scripts</code>文件夹里新建一个脚本文件叫做<code>AutoOpenEditor.js</code>（也可以是其他名字），内容如下：</p><figure class="highlight coffeescript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">let spawn = <span class="built_in">require</span>(<span class="string">'hexo-util/lib/spawn'</span>);</span><br><span class="line"></span><br><span class="line">hexo.<span class="literal">on</span>(<span class="string">'new'</span>, <span class="function"><span class="params">(data)</span> =&gt;</span> &#123;</span><br><span class="line">  spawn(<span class="string">'C:/\Program Files/\Typora/\Typora.exe'</span>, [data.path]);</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure><h4 id="mac-终端里怎么快速删除一行命令">mac 终端里，怎么快速删除一行命令？</h4><p><code>ctrl+u</code></p><h2 id="早上">早上</h2><ul><li><a href="https://onlinelibrary-wiley-com.libproxy1.nus.edu.sg/doi/pdf/10.1111/j.1467-9574.2010.00469.x" target="_blank" rel="noopener">Moment convergence of M-estimators (2010)</a> by Yoichi Nishiyama. This is a very short paper consisting only one theorem about the moment convergence of M estimators. However, his condition seems to be too strong since it requires the moments of the empirical process of all orders exist.</li></ul><h2 id="下午">下午</h2><p>下午继续计算。整理结果在笔记本上。明天继续整理。</p><h2 id="晚上">晚上</h2><p>晚上有点疲倦，状态不佳，回家早点休息。现在10点，准备睡觉。</p>]]></content>
     
     <summary type="html">
     
