@@ -6,7 +6,7 @@
   <link href="/zszhexo.github.io/atom.xml" rel="self"/>
   
   <link href="zhuosongz.github.io/zszhexo.github.io/"/>
-  <updated>2019-11-11T14:40:34.302Z</updated>
+  <updated>2019-11-12T14:54:41.941Z</updated>
   <id>zhuosongz.github.io/zszhexo.github.io/</id>
   
   <author>
@@ -17,11 +17,48 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>工作日志</title>
-    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/11/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/"/>
-    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/11/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/</id>
+    <title>研究日志</title>
+    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/12/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/12/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/</id>
+    <published>2019-11-12T14:48:21.000Z</published>
+    <updated>2019-11-12T14:54:41.941Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="日常作息">日常作息</h2><ul><li>6:30: 起床</li><li>7:30: 到办公室</li><li>1:20--1:40: 午睡</li></ul><h2 id="日常活动">日常活动</h2><p>基本完成昨天目标，明天继续。</p><p>与小椽讨论一下：我负责写几个证明，他来找一些例子。这个东西明天找时间整理整理。</p><p>安排与昨天一样。</p><p>晚上写了一下教学陈述。</p><p>香港暴力事件越来越严重，都蔓延到校园了。堪忧。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;日常作息&quot;&gt;日常作息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;6:30: 起床&lt;/li&gt;
+&lt;li&gt;7:30: 到办公室&lt;/li&gt;
+&lt;li&gt;1:20--1:40: 午睡&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;日常活动&quot;&gt;日常活动&lt;/h2&gt;
+&lt;p&gt;基本完成昨天目标，明天继续。&lt;/
+      
+    
+    </summary>
+    
+    
+      <category term="研究日志" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="M statistics" scheme="zhuosongz.github.io/zszhexo.github.io/tags/M-statistics/"/>
+    
+      <category term="Random graph" scheme="zhuosongz.github.io/zszhexo.github.io/tags/Random-graph/"/>
+    
+      <category term="Markov Chains" scheme="zhuosongz.github.io/zszhexo.github.io/tags/Markov-Chains/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>研究日志</title>
+    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/11/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/11/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/</id>
     <published>2019-11-11T14:27:49.000Z</published>
-    <updated>2019-11-11T14:40:34.302Z</updated>
+    <updated>2019-11-12T14:53:26.581Z</updated>
     
     <content type="html"><![CDATA[<h2 id="日常作息">日常作息</h2><ul><li>睡觉：12:00</li><li>起床：6:45</li><li>到办公室：8:00</li><li>午睡：1:00-1:30</li></ul><p>今天去办公室的时候，本来以为早起会早到，谁知错过一班车，多等了十几分钟，彻底对95路失望了。</p><h2 id="上午">上午</h2><ul><li>找Rosenthal inequality for vectors, 未果。最后妥协，选取其他条件来做。</li><li>对于exchangeable arrays, 有一个表示定理，说可以表示成独立随机变量的函数。</li><li>方老师提出了一个新的问题，希望可以做出多维正态的高阶展开。</li></ul><h2 id="下午">下午</h2><ul><li>继续修改非线性论文</li><li>讨论班</li></ul><h2 id="晚上">晚上</h2><ul><li>写了一个Markov chain的一点东西，并发给了小椽。</li><li>晚上回来继续讨论一下，希望可以做到非正态的逼近。</li></ul><h2 id="明天安排">明天安排</h2><ul><li><p>7点起床，8点到办公室</p></li><li><p>8:15--9:30: 继续修改非线性文章</p></li><li><p>9:40--11:00: 随机图阅读</p></li><li><p>11:10--12:00: 多维正态高阶展开，整理思路</p></li><li><p>14:00--15:00: 随机图阅读。</p></li><li><p>15:00--16:00: 马氏链。</p></li><li><p>16:00--17:00: 随机图。</p></li><li><p>17:00--18:00: 整理今天所得</p></li><li><p>7:20--8:30: 写材料</p></li><li><p>8:40: 跑步</p></li><li><p>9:15: 回家</p></li></ul>]]></content>
     
@@ -42,7 +79,7 @@
     </summary>
     
     
-      <category term="工作日志" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/"/>
+      <category term="研究日志" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
     
     
       <category term="Stein&#39;s method" scheme="zhuosongz.github.io/zszhexo.github.io/tags/Stein-s-method/"/>
