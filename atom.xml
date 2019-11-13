@@ -6,7 +6,7 @@
   <link href="/zszhexo.github.io/atom.xml" rel="self"/>
   
   <link href="zhuosongz.github.io/zszhexo.github.io/"/>
-  <updated>2019-11-12T14:54:41.941Z</updated>
+  <updated>2019-11-13T15:03:08.828Z</updated>
   <id>zhuosongz.github.io/zszhexo.github.io/</id>
   
   <author>
@@ -15,6 +15,60 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>研究日志</title>
+    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/13/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/13/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/</id>
+    <published>2019-11-13T14:55:21.000Z</published>
+    <updated>2019-11-13T15:03:08.828Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="日常作息">日常作息</h2><ul><li>睡觉：11:30</li><li>起床：7:30</li><li>到办公室：8:25</li></ul><p>今天早上改了一下M统计量的文章。</p><p>又考虑了一下多维情况高阶的展开，但是还是没有太多的思路。Garsharn说了一个概念叫: k-linear form. 这个可能有点作用，明天查一下。</p><p>下午想了一下带余项的exchangeable pair, 发现以前写过，而且证明很简单。希望小椽找到例子。</p><p>参加了一个seminar, 讲高维的随机矩阵的AIC和BIC。</p><p>跟Garsharn讨论了一下多维随机图子图个数的问题，她的结果跟随机图的结点个数有关，但是Adrian表示这一点并没有办法改进。我也考虑了一下看能不能改进。未果。</p><p>晚上修改了一下M-统计量的latex文档。</p><p>这几天被香港的事情分心不少，明天要注意！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;日常作息&quot;&gt;日常作息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;睡觉：11:30&lt;/li&gt;
+&lt;li&gt;起床：7:30&lt;/li&gt;
+&lt;li&gt;到办公室：8:25&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;今天早上改了一下M统计量的文章。&lt;/p&gt;
+&lt;p&gt;又考虑了一下多维情况高阶的展开，但是还是没有太多
+      
+    
+    </summary>
+    
+    
+      <category term="研究日志" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2019-11-13-diary</title>
+    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/13/2019-11-13-diary/"/>
+    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/13/2019-11-13-diary/</id>
+    <published>2019-11-13T14:55:10.062Z</published>
+    <updated>2019-11-13T14:55:10.062Z</updated>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>研究日志</title>
