@@ -6,7 +6,7 @@
   <link href="/zszhexo.github.io/atom.xml" rel="self"/>
   
   <link href="zhuosongz.github.io/zszhexo.github.io/"/>
-  <updated>2019-11-13T15:03:08.828Z</updated>
+  <updated>2019-11-15T01:57:53.018Z</updated>
   <id>zhuosongz.github.io/zszhexo.github.io/</id>
   
   <author>
@@ -15,6 +15,73 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>研究日志</title>
+    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/15/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/15/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/</id>
+    <published>2019-11-15T01:55:58.000Z</published>
+    <updated>2019-11-15T01:57:53.018Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="日常作息">日常作息</h2><ul><li>12:30 睡觉</li><li>7:30 起床</li><li>8:15 到办公室</li></ul><h2 id="上午">上午</h2><ul><li><p>想要改进一个结果，思考了1个多小时，这个问题费力不讨好，决定放弃。</p></li><li></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;日常作息&quot;&gt;日常作息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;12:30 睡觉&lt;/li&gt;
+&lt;li&gt;7:30 起床&lt;/li&gt;
+&lt;li&gt;8:15 到办公室&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;上午&quot;&gt;上午&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;想要改进一个结果，思考了1个多小时，这
+      
+    
+    </summary>
+    
+    
+      <category term="研究日志" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="M statistics" scheme="zhuosongz.github.io/zszhexo.github.io/tags/M-statistics/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>研究日志</title>
+    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/14/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/14/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/</id>
+    <published>2019-11-14T11:50:47.000Z</published>
+    <updated>2019-11-15T01:54:51.493Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="日常作息">日常作息</h2><ul><li>12:00 睡觉</li><li>7:40 起床</li><li>8:20 到办公室</li></ul><h2 id="上午">上午</h2><p>修改了一下M-statistics的证明，决定跟经典的结果靠拢。现在的条件是，不需要<span class="math inline">\(M_n\)</span>是凸的，只要<span class="math inline">\(M\)</span>是凸的就行了。另外，<span class="math inline">\(m_\theta\)</span>需要是光滑的。</p><h2 id="下午">下午</h2><p>组会。关于神经网络模型的逼近问题。</p><h2 id="晚上">晚上</h2><p>继续研究M-statistics.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;日常作息&quot;&gt;日常作息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;12:00 睡觉&lt;/li&gt;
+&lt;li&gt;7:40 起床&lt;/li&gt;
+&lt;li&gt;8:20 到办公室&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;上午&quot;&gt;上午&lt;/h2&gt;
+&lt;p&gt;修改了一下M-statistics的证明，决定跟经典的结
+      
+    
+    </summary>
+    
+    
+      <category term="研究日志" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="M statistics" scheme="zhuosongz.github.io/zszhexo.github.io/tags/M-statistics/"/>
+    
+  </entry>
   
   <entry>
     <title>研究日志</title>
@@ -43,29 +110,6 @@
     
     
       <category term="研究日志" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2019-11-13-diary</title>
-    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/13/2019-11-13-diary/"/>
-    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/13/2019-11-13-diary/</id>
-    <published>2019-11-13T14:55:10.062Z</published>
-    <updated>2019-11-13T14:55:10.062Z</updated>
-    
-    <content type="html"><![CDATA[]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        
-
-      
-    
-    </summary>
-    
     
     
   </entry>
@@ -425,6 +469,8 @@
       <category term="研究日志" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
     
     
+      <category term="M estimator" scheme="zhuosongz.github.io/zszhexo.github.io/tags/M-estimator/"/>
+    
       <category term="review" scheme="zhuosongz.github.io/zszhexo.github.io/tags/review/"/>
     
       <category term="Bootstrap" scheme="zhuosongz.github.io/zszhexo.github.io/tags/Bootstrap/"/>
@@ -432,8 +478,6 @@
       <category term="Statistical application" scheme="zhuosongz.github.io/zszhexo.github.io/tags/Statistical-application/"/>
     
       <category term="MLE" scheme="zhuosongz.github.io/zszhexo.github.io/tags/MLE/"/>
-    
-      <category term="M estimator" scheme="zhuosongz.github.io/zszhexo.github.io/tags/M-estimator/"/>
     
   </entry>
   
