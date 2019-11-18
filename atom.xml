@@ -6,7 +6,7 @@
   <link href="/zszhexo.github.io/atom.xml" rel="self"/>
   
   <link href="zhuosongz.github.io/zszhexo.github.io/"/>
-  <updated>2019-11-15T01:57:53.018Z</updated>
+  <updated>2019-11-18T00:25:05.830Z</updated>
   <id>zhuosongz.github.io/zszhexo.github.io/</id>
   
   <author>
@@ -15,6 +15,75 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>研究日志</title>
+    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/17/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/17/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/</id>
+    <published>2019-11-17T10:22:34.000Z</published>
+    <updated>2019-11-18T00:25:05.830Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="日常作息">日常作息</h2><ul><li>8:30: 起床</li><li>上午在家写了一点东西，中午吃了饭之后来的办公室。</li><li>潘宇卿来访。</li><li>下午继续写证明。</li><li>晚上与潘宇卿外面吃饭。</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;日常作息&quot;&gt;日常作息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;8:30: 起床&lt;/li&gt;
+&lt;li&gt;上午在家写了一点东西，中午吃了饭之后来的办公室。&lt;/li&gt;
+&lt;li&gt;潘宇卿来访。&lt;/li&gt;
+&lt;li&gt;下午继续写证明。&lt;/li&gt;
+&lt;li&gt;晚上与潘宇卿外面吃饭。&lt;/li&gt;
+&lt;/ul
+      
+    
+    </summary>
+    
+    
+      <category term="研究日志" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="M statistics" scheme="zhuosongz.github.io/zszhexo.github.io/tags/M-statistics/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>研究日志</title>
+    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/16/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/16/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/</id>
+    <published>2019-11-16T01:52:20.000Z</published>
+    <updated>2019-11-16T15:55:56.094Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="日常作息">日常作息</h2><ul><li>起床：8:40</li><li>到办公室：9:40</li></ul><h2 id="vim-技巧">vim 技巧</h2><p>下面的设定来自<a href="https://tex.stackexchange.com/questions/62134/how-to-disable-all-vim-latex-mappings" target="_blank" rel="noopener">StackExchange</a>.</p><blockquote><p>To disable specific <code>IMAP</code>s, add trivial <code>IMAP</code> commands to the file <code>~/.vim/after/ftplugin/tex.vim</code> (you may have to create it if it does not exist). For instance,</p></blockquote><figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">" Undo some latex-suite macros</span></span><br><span class="line"><span class="keyword">call</span> IMAP(<span class="string">'(('</span>, <span class="string">'(('</span>, <span class="string">'tex'</span>)</span><br></pre></td></tr></table></figure><p>or</p><figure class="highlight autoit"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">call</span> UNMAP(<span class="string">'(('</span>,<span class="string">'tex'</span>)</span><br></pre></td></tr></table></figure><h2 id="上午">上午</h2><ul><li>整理了一般的M-统计量的结果。</li></ul><h2 id="下午">下午</h2><ul><li>希望可以拓展到Huber estimator 和 mean absolute regression的情况。通过查文献，发现<ul><li>Ip et al. (2001): Least median absolute estimator;</li><li>Yohai: S estimator</li><li>Roussenuw (1984) consistency and normality.</li><li>Davies (1987,1990): asymptotic of S estimator linear model.</li><li>Davies (1990, p. 1656): gives some results on the empirical process.</li></ul></li><li>General reference:<ul><li>entropy theory washington: p. 25</li><li>Emp-proc-delft-big: p. 40</li></ul></li><li>About the empirical convergence rate of indicator functions:<ul><li>The VC number: Kosorok (2008, p. 169)</li><li>The norm: <span class="math inline">\(\small\|G_n\|_{\delta} \leq \sqrt{\delta}\)</span>. See Vaart (1998, p. 371).</li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;日常作息&quot;&gt;日常作息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;起床：8:40&lt;/li&gt;
+&lt;li&gt;到办公室：9:40&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;vim-技巧&quot;&gt;vim 技巧&lt;/h2&gt;
+&lt;p&gt;下面的设定来自&lt;a href=&quot;https://tex.stackexcha
+      
+    
+    </summary>
+    
+    
+      <category term="研究日志" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    
+      <category term="小窍门" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/%E5%B0%8F%E7%AA%8D%E9%97%A8/"/>
+    
+    
+      <category term="M statistics" scheme="zhuosongz.github.io/zszhexo.github.io/tags/M-statistics/"/>
+    
+      <category term="vim" scheme="zhuosongz.github.io/zszhexo.github.io/tags/vim/"/>
+    
+  </entry>
   
   <entry>
     <title>研究日志</title>
@@ -469,8 +538,6 @@
       <category term="研究日志" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
     
     
-      <category term="M estimator" scheme="zhuosongz.github.io/zszhexo.github.io/tags/M-estimator/"/>
-    
       <category term="review" scheme="zhuosongz.github.io/zszhexo.github.io/tags/review/"/>
     
       <category term="Bootstrap" scheme="zhuosongz.github.io/zszhexo.github.io/tags/Bootstrap/"/>
@@ -478,6 +545,8 @@
       <category term="Statistical application" scheme="zhuosongz.github.io/zszhexo.github.io/tags/Statistical-application/"/>
     
       <category term="MLE" scheme="zhuosongz.github.io/zszhexo.github.io/tags/MLE/"/>
+    
+      <category term="M estimator" scheme="zhuosongz.github.io/zszhexo.github.io/tags/M-estimator/"/>
     
   </entry>
   
