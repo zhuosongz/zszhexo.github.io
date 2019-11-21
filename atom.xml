@@ -6,7 +6,7 @@
   <link href="/zszhexo.github.io/atom.xml" rel="self"/>
   
   <link href="zhuosongz.github.io/zszhexo.github.io/"/>
-  <updated>2019-11-19T00:45:00.300Z</updated>
+  <updated>2019-11-21T00:24:26.216Z</updated>
   <id>zhuosongz.github.io/zszhexo.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>研究日志</title>
+    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/20/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/20/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/</id>
+    <published>2019-11-20T10:20:14.000Z</published>
+    <updated>2019-11-21T00:24:26.216Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="日常作息">日常作息</h2><ul><li>睡觉：11:30</li><li>起床：7:40</li><li>到办公室：8:50</li></ul><p>坐过站了。</p><h2 id="上午">上午</h2><p>今天只做了一件事，就是构造一个exchangeable array, 使得可以用Chatterjee 的办法来得到集中不等式。</p><p>记在note上，并打了下来。</p><p>下午和晚上试了试用这个办法算鞅差，似乎得到一些结果。明天再检查检查。</p><p>昨天的发烧好的差不多了。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;日常作息&quot;&gt;日常作息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;睡觉：11:30&lt;/li&gt;
+&lt;li&gt;起床：7:40&lt;/li&gt;
+&lt;li&gt;到办公室：8:50&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;坐过站了。&lt;/p&gt;
+&lt;h2 id=&quot;上午&quot;&gt;上午&lt;/h2&gt;
+&lt;p&gt;今天只做了一件事，就是构造一个
+      
+    
+    </summary>
+    
+    
+      <category term="研究日志" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>研究日志</title>
