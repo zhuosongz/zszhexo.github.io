@@ -6,7 +6,7 @@
   <link href="/zszhexo.github.io/atom.xml" rel="self"/>
   
   <link href="zhuosongz.github.io/zszhexo.github.io/"/>
-  <updated>2019-11-21T00:27:18.158Z</updated>
+  <updated>2019-11-26T00:40:21.217Z</updated>
   <id>zhuosongz.github.io/zszhexo.github.io/</id>
   
   <author>
@@ -18,12 +18,78 @@
   
   <entry>
     <title>研究日志</title>
+    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/25/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/25/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/</id>
+    <published>2019-11-25T10:35:58.000Z</published>
+    <updated>2019-11-26T00:40:21.217Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="日常作息">日常作息</h2><ul><li>睡觉：12:00</li><li>起床：7:30</li><li>到办公室：8:20</li></ul><h2 id="上午">上午</h2><ul><li>改concentration inequality的文章。更改了一些细节。</li><li>发现了一个漏洞。</li></ul><p><span class="math display">\[P(Z \in A) - P(T \in A) \tag{1}\label{1}\]</span> 的上界似乎有点问题。</p><ul><li>方老师发了一个图片过来。</li></ul><h2 id="下午">下午</h2><ul><li>参加GMC的讨论版，邓老师和小椽分别讲了一个证明。</li><li>继续考虑的问题。</li></ul><h2 id="晚上">晚上</h2><ul><li>考虑能不能把<span class="math inline">\(E |W \Delta|\)</span> 变成 <span class="math inline">\(E |\Delta|\)</span>.</li></ul><h2 id="总结">总结</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;日常作息&quot;&gt;日常作息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;睡觉：12:00&lt;/li&gt;
+&lt;li&gt;起床：7:30&lt;/li&gt;
+&lt;li&gt;到办公室：8:20&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;上午&quot;&gt;上午&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;改concentration inequal
+      
+    
+    </summary>
+    
+    
+      <category term="研究日志" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>研究日志</title>
+    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/22/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/22/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/</id>
+    <published>2019-11-22T08:00:25.000Z</published>
+    <updated>2019-11-23T03:24:52.596Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="日常作息">日常作息</h2><ul><li>睡觉：12:00</li><li>起床：6:50</li><li>到办公室：8:00</li></ul><h2 id="上午">上午</h2><ul><li>写材料，发邮件。</li></ul><h2 id="下午">下午</h2><ul><li><p>读empirical process的东西。</p></li><li><p>Orlicz norms and the Pisier inequality.</p></li></ul><div class="note info no-icon"><p>If <span class="math inline">\(\psi\)</span> is a convex and increasing unbounded function $ : R_+ R_+ $ and <span class="math inline">\(\psi(0) = 0\)</span>, we say <span class="math inline">\(\psi\)</span> is a Young modulus.</p><p>For any random variable <span class="math inline">\(X\)</span>, the <span class="math inline">\(L_{\psi}\)</span>-Orlicz norm of <span class="math inline">\(X\)</span> is defined to be <span class="math display">\[\begin{align*}    \lVert X\rVert_{\psi} = \inf \biggl\{ c &gt; 0 : E \psi \biggl( \frac{ \lvert X\rvert}{c} \biggr)    \leq 1 \biggr\}. \end{align*} \]</span> Specially, the function <span class="math inline">\(\psi_p = e^{x^p} - 1\)</span> is a Yong modulus for each <span class="math inline">\(p \geq 1\)</span>.</p><p>Let <span class="math inline">\(\psi\)</span> be a Yong modulus of exponential type, then there exists a finite constant <span class="math inline">\(C_{\psi}\)</span> such that for every sequence of random variables <span class="math inline">\(\{X_k\}\)</span> <span class="math display">\[\begin{align*}    \biggl\lVert \sup_{k} \frac{|X_k|}{\psi^{-1} (k)} \biggr\rVert_{\psi} \leq C_{\psi} \sup_{k}    \lVert X_k \rVert_{\psi}\end{align*}\]</span></p><p>If <span class="math inline">\(\psi\)</span> is a Young modulus of the exponential type and <span class="math inline">\(\{X_k\}_{k = 1}^m\)</span> is any finite collection of random variables, then <span class="math display">\[\begin{align*}    \lVert \sup_{1 \leq k \leq m} \lvert X_{k}\rvert\rVert_{\psi} \leq C_{\psi} \psi^{-1}(m)    \sup_{k} \lVert X_k\rVert_{\psi},  \end{align*}\]</span> where <span class="math inline">\(C_{\psi}\)</span> is a finite constant depending only on <span class="math inline">\(\psi\)</span>.</p></div><div class="note danger no-icon"><p>Consider the definition of the covering numbers.</p><p>Let <span class="math inline">\((T, d)\)</span> be a metric space. Let the covering number be <span class="math display">\[N(\epsilon, T, d) = \min \bigl\{k: \text{there exist } t_1, \dots, t_k \in T \text{ such that } T\subset \cup_{i=1}^k B(t_i, \epsilon)\bigr\}. \]</span> Let the packing number be <span class="math display">\[D(\epsilon, T, d)\]</span> be the largest <span class="math inline">\(k\)</span> for which there exist <span class="math inline">\(k\)</span> points <span class="math inline">\(t_1, \dots, t_k\)</span> such that <span class="math inline">\(d(t_i, t_j) &gt; \epsilon\)</span> if <span class="math inline">\(i \neq j\)</span>.</p><p>The metric entropy of <span class="math inline">\((T, d)\)</span> is <span class="math inline">\(\log N(\epsilon, T, d)\)</span> and the <span class="math inline">\(\epsilon\)</span>-capacity is <span class="math inline">\(\log D(\epsilon, T, d)\)</span>.</p><p>If <span class="math inline">\(T \subset R^m\)</span> is totally bounded and <span class="math inline">\(d\)</span> is the Euclidean distance, then <span class="math display">\[\begin{align*}    N(\epsilon, T, d) \leq \frac{K_m}{\epsilon^m}. \end{align*}\]</span> Note that <span class="math inline">\(K_m\)</span> depends on <span class="math inline">\(m\)</span>.</p></div><p>The following theorem is the first result. See Vaart and Wellner (1996), Thm 2.2.4, p. 98.</p><div class="note info no-icon"><p>Let <span class="math inline">\((T, d)\)</span> be a metric space and let <span class="math inline">\(\{X(t)\}_{t \in T}\)</span> be a stochastic process indexed by <span class="math inline">\(T\)</span>, and let <span class="math inline">\(\psi\)</span> be a Young modulus of exponential type such that <span class="math display">\[\lVert X(t) - X(s) \rVert_{\psi} \leq d(s, t), \quad  s , t \in T. \]</span> Then there exists a constant <span class="math inline">\(K\)</span> depending only on <span class="math inline">\(\psi\)</span> such that for all finite subset <span class="math inline">\(S \subset T\)</span>, <span class="math inline">\(t_0 \in T\)</span> and <span class="math inline">\(\delta &gt; 0\)</span>, <span class="math display">\[\lVert \max_{t \in S} \lvert X(t)\rvert\rVert_{\psi} \leq \lVert X(t_0)\rVert_{\psi} + K \int_0^D\psi^{-1} (N(\epsilon, T,  d)) d \epsilon, \]</span> where <span class="math inline">\(D\)</span> is the diameter of <span class="math inline">\((T, d)\)</span>. Also, <span class="math display">\[     \biggl\lVert \max_{s,t\in S, d(s,t) &lt; \epsilon} \lvert X(t) - X(s) \rvert     \biggr\rVert_{\psi} \leq K \int_0^\delta \psi^{-1} (N(\epsilon, T, d)) d \epsilon.\]</span></p><p>Suppose that <span class="math inline">\(X_1, \dots, X_m\)</span> are random variables such that <span class="math display">\[P (|X_i| &gt; x) \leq 2 \exp \biggl( - \frac{1}{2} \frac{x^2}{d + cx}\biggr), \]</span> for all <span class="math inline">\(x &gt; 0\)</span> and <span class="math inline">\(i = 1, \dots, m\)</span> for fixed <span class="math inline">\(c\)</span> and <span class="math inline">\(d\)</span>. Then there is a universal <span class="math inline">\(K &lt; \infty\)</span> so that <span class="math display">\[\biggl\lVert \max_{1 \leq i \leq m} \lvert X_i \rvert\biggr\rVert_{\psi_1} \leq K \biggl\{c \log(1 + m) + \sqrt{d} \sqrt{\log (1 + m)}\biggr\}.\]</span></p></div><ul><li>Inequalities for sums of independent processes</li></ul><div class="note primary no-icon"><p>The Ottavani Inequality.</p><p>Let <span class="math inline">\(X_1, \dots, X_n\)</span> be independent stochastic processes indexed by an arbitrary set. Then for <span class="math inline">\(\lambda &gt; 0, \eta &gt; 0\)</span>, <span class="math display">\[P^* \biggl(\max_{k \leq n} \lVert S_k \rVert^* &gt; \lambda + \eta \biggr) \leq \frac{P^* ( \lVert S_n\rVert^* &gt; \lambda)}{ 1- \max_{1 \leq k \leq n} P ( \lVert S_n -S_k\rVert &gt; \eta )}. \]</span></p><p>Levy's Inequalities.</p><p>Let <span class="math inline">\(X_1, \dots, X_n\)</span> be independent, symmetric stochastic processes indexed by an arbitrary set. Then <span class="math display">\[P^* \biggl( \max_{k \leq n} \lVert S_k\rVert &gt; \lambda \biggr) \leq 2 P^* ( \lVert S_n \rVert &gt;\lambda), \quad P^* \biggl( \max_{k \leq n} \lVert X_k\rVert &gt; \lambda \biggr) \leq 2 P^* ( \lVert S_n \rVert &gt;\lambda), \]</span></p><p>Hoffmann-Jørgensen Inequalities.</p><p>Let <span class="math inline">\(X_1, \dots, X_n\)</span> be independent stochastic processes indexed by an arbitrary set. Then for any <span class="math inline">\(\lambda &gt; 0, \eta &gt; 0\)</span>, <span class="math display">\[P^* \biggl( \max_{k \leq n} \lVert S_k\rVert &gt; 3 \lambda + \eta\biggr) \leq \biggl\{ P^*\biggl(\max_{k \leq n} \lVert S_k\rVert &gt; \lambda\biggr)\biggr\}^2 + P^* \biggl(\max_{k \leq n}\lVert X_k\rVert &gt; \eta\biggr).\]</span></p><p>Hoffmann-Jørgensen’s inequality for moments.</p><p>Let $ 0 &lt; p &lt; $. There exist constants <span class="math inline">\(C_p\)</span> and <span class="math inline">\(u_p\in (0, 1)\)</span> such that <span class="math display">\[E^* \max_{k \leq n}\lVert S_k\rVert^p \leq C_p \biggl\{E^* \biggl(\max_{k \leq n} \lVert X_k\rVert^p\biggr) + F^{-1}(u_p)^{p}\biggr\}, \]</span> where <span class="math inline">\(F^{-1}\)</span> is the quantile function of the random variable <span class="math inline">\(\max \lVert S_n\rVert^*\)</span>. Also, <span class="math display">\[\biggl\lVert  \lVert S_n\rVert^* \biggr\rVert_{P, p} \leq M_p \biggl\{     \biggl\lVert  \lVert S_n\rVert^* \biggr\rVert_{P, 1}     + \biggl\lVert \max_{k \leq n} \lVert X_k\rVert\biggr\rVert_{P,p}\biggr\}, \quad  p &gt; 1.\]</span></p><p><span class="math display">\[\biggl\lVert  \lVert S_n\rVert^* \biggr\rVert_{\psi_p} \leq M_{\psi_p} \biggl\{     \biggl\lVert  \lVert S_n\rVert^* \biggr\rVert_{P, 1}     + \biggl\lVert \max_{k \leq n} \lVert X_k\rVert\biggr\rVert_{\psi_p} \biggr\},\quad  p\in (0,1].\]</span></p><p><span class="math display">\[\biggl\lVert  \lVert S_n\rVert^* \biggr\rVert_{P, p} \leq M_{\psi_p} \biggl\{     \biggl\lVert  \lVert S_n\rVert^* \biggr\rVert_{P, 1}     + \biggl( \sum_{k \leq n}\biggl\lVert  \lVert X_k\rVert_{\psi_p}^q \biggr\rVert \biggr)^{1/q}\biggr\}, \quad  p \in (1,2].\]</span></p></div><h2 id="晚上">晚上</h2><p>(An Orlicz norm is a norm)[https://math.stackexchange.com/questions/432927/an-orlicz-norm-is-a-norm]</p><h2 id="总结">总结</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;日常作息&quot;&gt;日常作息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;睡觉：12:00&lt;/li&gt;
+&lt;li&gt;起床：6:50&lt;/li&gt;
+&lt;li&gt;到办公室：8:00&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;上午&quot;&gt;上午&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;写材料，发邮件。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h
+      
+    
+    </summary>
+    
+    
+      <category term="研究日志" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>研究日志</title>
     <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/21/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
     <id>zhuosongz.github.io/zszhexo.github.io/2019/11/21/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/</id>
     <published>2019-11-21T00:26:19.000Z</published>
-    <updated>2019-11-21T00:27:18.158Z</updated>
+    <updated>2019-11-22T07:59:43.770Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="日常作息">日常作息</h2><ul><li>睡觉：12:00</li><li>起床：6:00</li><li>到办公室：8:00</li></ul><h2 id="上午">上午</h2><ul><li>检查到了昨天的计算有一步是不对的，想想怎么改正。</li></ul><h2 id="下午">下午</h2><h2 id="晚上">晚上</h2><h2 id="总结">总结</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="日常作息">日常作息</h2><ul><li>睡觉：12:00</li><li>起床：6:00</li><li>到办公室：8:00</li></ul><h2 id="上午">上午</h2><ul><li>检查到了昨天的计算有一步是不对的，想想怎么改正。</li></ul><h2 id="下午">下午</h2><ul><li><p>没有想出来怎么做。果然大新闻不是那么好搞的。尤其是对于鞅的情况，更不好做。</p></li><li><p>原来exchangeable array怎么做呢？再考虑考虑！</p></li><li><p>去医院复查，病毒杀的差不多了。不过眼睛有点小感染，医生开了一些眼药水。</p></li></ul><h2 id="晚上">晚上</h2><ul><li><p>搜集Huber Estimator的文献，当作例子。</p><ul><li><p>Efthymios Tsakonas, Joakim Jaldén, Nicholas D. Sidiropoulos, and Björn Ottersten: (2014), Convergence of the Huber Regression M-Estimate in the Presence of Dense Outliers. 这个可能是最新的，从它的参考文献里看看，能找到什么。<em>这篇似乎没啥用。</em></p></li><li><p>Miguel A. Arcones (1995): Asymptotic normality of multivariate trimmed means。 这篇有意思。可以好好看一看。</p><ul><li><p>By the law of the large numbers for VC subgraph classes of functions (see Gin6 and Zinn, 1984, Theorem 8.3) <span class="math display">\[\sup_{|\theta - \theta_0| \leq T} | (P_n - P) [ h(|\cdot - \theta |) - h(|\cdot - \theta_0|) ] | \to 0 , \text{a.s.}.\]</span></p></li><li><p>By Nolan and Polland (1987): U-processes, rates of convergence. Lemma 22 gives the covering numbers of <span class="math inline">\(d\)</span>-dimensional functions. This is important!!!</p></li></ul></li></ul></li></ul><h2 id="总结">总结</h2><ul><li>今天又开始纠结了。对一个做不出来的问题纠结的时间太久了。</li></ul>]]></content>
     
     <summary type="html">
     
@@ -610,76 +676,6 @@
       <category term="life" scheme="zhuosongz.github.io/zszhexo.github.io/tags/life/"/>
     
       <category term="blog" scheme="zhuosongz.github.io/zszhexo.github.io/tags/blog/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>研究日志</title>
-    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/04/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
-    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/04/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/</id>
-    <published>2019-11-04T01:00:00.000Z</published>
-    <updated>2019-11-04T15:33:18.488Z</updated>
-    
-    <content type="html"><![CDATA[<ul><li>睡觉时间：2:30</li><li>起床时间：7:30</li><li>到办公室时间：8:30<ul><li>今天坐地铁来学校，然后从地铁站走到办公室，共用时30分钟 (其中走路20分钟)。</li></ul></li><li>午饭: 12:20--13:00</li><li>午睡：13:30--14:00</li></ul><h3 id="morning">Morning</h3><h4 id="paper-reading">Paper reading</h4><p><span class="math inline">\(\def\IR{\mathbb{R}}\def\IP{\mathbb{P}}\def\IE{\mathbb{E}}\)</span></p><ol type="1"><li><p><a href="https://arxiv.org/pdf/1611.02686.pdf" target="_blank" rel="noopener">A paper on weighted bootstrap</a></p><ul><li><p>by Mayya Zhilova;</p></li><li><p>Abstract: We study accuracy of a weighted bootstrap procedure for estimation of quantiles of Euclidean norm of a sum of independent random vectors with zero mean and bounded fourth moment.</p></li><li><p>They consider the non-smooth errors for Balls in the space <span class="math inline">\(\mathbb{R}^d\)</span>.</p></li><li><p>The result is quit sharp, which is of order <span class="math inline">\(n^{-1/2}\)</span>.</p></li></ul></li><li><p><a href="https://projecteuclid-org.libproxy1.nus.edu.sg/download/pdf_1/euclid.aos/1176349666" target="_blank" rel="noopener">One-step and two-step estimators</a></p><ul><li>By Janssen et. al.</li><li>Abstract: A one-step version <span class="math inline">\(M^{(1)}_n\)</span> and a two-step version <span class="math inline">\(M^{(2)}_n\)</span> of a general <span class="math inline">\(M\)</span>-estimator <span class="math inline">\(M_n\)</span> are suggested such that <span class="math inline">\(M_n - M^{(1)}_n = O_p(n^{-1})\)</span> and <span class="math inline">\(M_n - M^{(2)}_n = O_p(n^{-3/2})\)</span> for every <span class="math inline">\(n^{1/2}\)</span>-consistent initial estimator and under some regularity conditions. In the special case of maximum likelihood estimation, this among other yields that the second-order efficiency properties of <span class="math inline">\(M^{(2)}_n\)</span> coincide with those of <span class="math inline">\(M_n\)</span>. An application to the Pitman estimator of location is considered.</li></ul></li><li><p><a href="https://arxiv.org/abs/1205.2947" target="_blank" rel="noopener">A uniform Berry–Esseen theorem on <span class="math inline">\(M\)</span>-estimators for geometrically ergodic Markov chains</a></p><ul><li>By Ledoux and his coauthors</li><li>Abstract: Let <span class="math inline">\(\{X_n\}_{n\ge0}\)</span> be a <span class="math inline">\(V\)</span>-geometrically ergodic Markov chain. Given some real-valued functional <span class="math inline">\(F\)</span>, define <span class="math inline">\(M_n(\alpha):=n^{-1}\sum_{k=1}^nF(\alpha,X_{k-1},X_k)\)</span>, <span class="math inline">\(\alpha\in\mathcal{A}\subset \mathbb {R}\)</span>. Consider an <span class="math inline">\(M\)</span> estimator <span class="math inline">\(\hat{\alpha}_n\)</span>, that is, a measurable function of the observations satisfying <span class="math inline">\(M_n(\hat{\alpha}_n)\leq \min_{\alpha\in\mathcal{A}}M_n(\alpha)+c_n\)</span> with <span class="math inline">\(\{c_n\}_{n\geq1}\)</span> some sequence of real numbers going to zero. Under some standard regularity and moment assumptions, close to those of the i.i.d. case, the estimator <span class="math inline">\(\hat{\alpha}_n\)</span> satisfies a Berry--Esseen theorem uniformly with respect to the underlying probability distribution of the Markov chain.</li><li>Therefore, this can should be carefully read.</li><li>Markov chain and <span class="math inline">\(M\)</span> estimators.</li></ul></li></ol><h4 id="berry--esseen-bound-for-m-estimators.">Berry--Esseen bound for <span class="math inline">\(M\)</span> estimators.</h4><ol type="1"><li><p><a href="https://www-jstor-org.libproxy1.nus.edu.sg/stable/pdf/4616471.pdf?refreqid=excelsior%3A3d89efc93c85b5722673ba093b37c3a9" target="_blank" rel="noopener">A Berry-Esséen Bound for M-Estimators, 1997</a></p><ul><li>By V. Bentkus, M. Bloznelis and F. Götze.</li><li>Potential problems:<ul><li>Convexity: Convexity There exist <span class="math inline">\(\delta\)</span> &gt; 0 and B &gt; 0 such that <span class="math display">\[      \mathbb{P} \bigl[ Q_N(t) \text{ is convex on } (t_0 - \delta , t_0 + \delta) \bigr] \geq 1 - B N^{-1/2}.  \]</span></li><li>Can we weaken this condition to <span class="math inline">\(\mathbb{E} Q_N\)</span>?</li><li><span class="math inline">\(\IR\)</span>.</li><li>What they considered is the one-dimensional case: <span class="math display">\[       \Delta_N := \sup_{ u \in \IR } |\IP[N^{1/2} (t_N - t_0)/b &lt; u] -\Phi(u) | \leq C N^{-1/2},  \]</span> provided that <span class="math display">\[      N / \log N \geq \text{some constant}.  \]</span></li></ul></li></ul></li><li><p><a href="https://eml.berkeley.edu/wp/mcfadden1007.pdf" target="_blank" rel="noopener">Maximal Uniform Convergence Rates in Parametric Estimation Problems</a></p></li><li><p><a href="http://www.stats.ox.ac.uk/~evans/Part%20III%20Essay.pdf" target="_blank" rel="noopener">A Thesis on convergence rate of MLE</a></p></li><li><p><a href="https://www.stat.washington.edu/jaw/RESEARCH/TALKS/uw.pdf" target="_blank" rel="noopener">A slides on convergence rate of MLE and empirical process theory</a></p></li></ol><h3 id="afternoon">Afternoon</h3><h4 id="graph-problems">1. Graph problems</h4><p>Consider the following configuration model:</p><p>Let $G_n $ be a random graph with <span class="math inline">\(n\)</span> vertices, and for each vertex <span class="math inline">\(i\)</span>, let <span class="math inline">\(d_i\)</span> be its degree. We want to prove <span class="math inline">\(G_n \to h\)</span>, where <span class="math inline">\(h (x, y) = f(x) f(y)\)</span>, and <span class="math inline">\(f(x)\)</span> is the ''degree'' of <span class="math inline">\(x\)</span>. Construct the graph sequence as follows: let <span class="math inline">\(G_n(t)\)</span> be the graph at time <span class="math inline">\(t\)</span>, and generate <span class="math inline">\(G_n(t + 1)\)</span> by randomly picking two vertices <span class="math inline">\((i_1, i_2)\)</span> adjoint to <span class="math inline">\(j\)</span>, and then switch the types of <span class="math inline">\((i_1, j)\)</span> and <span class="math inline">\((i_2, j)\)</span> or delete <span class="math inline">\((i_1,j)\)</span> anyway.</p><ul><li>If we only switch the types of <span class="math inline">\((i_1, j)\)</span> and <span class="math inline">\((i_2, j)\)</span>, then it follows that the total number of the edges do not change. Let <span class="math inline">\((d_{1,t}, \dots, d_{n, t})\)</span> be the degree sequence at time <span class="math inline">\(t\)</span>, we guess that the distribution of <span class="math inline">\((d_{1,t} , \dots, d_{n,t})\)</span> does not change over time <span class="math inline">\(t\)</span>.</li></ul><blockquote><p>Proof:</p></blockquote><h3 id="cheatsheets">Cheatsheets:</h3><ul><li><a href="https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5" target="_blank" rel="noopener">Essential Cheat Sheets for Machine Learning and Deep Learning Engineers</a><ul><li>some python and R techniques.</li></ul></li></ul><h3 id="gmc">GMC</h3><blockquote><p>By Adam</p></blockquote><p>Let <span class="math inline">\(M_{\gamma} (A) = \int_{A} \exp \bigl( \gamma X(v) - \frac{\gamma^2}{2} \IE (X(x)^2)\bigr)\)</span> where <span class="math inline">\(\gamma^2 &lt; 2 d\)</span> and <span class="math inline">\(X(x)\)</span> is a centered Gaussian field with covariance</p><p><span class="math display">\[K(x, y) = \log \biggl(\frac{1}{|x - y|}\biggr) + g(x, y). \]</span></p><p>It has been shown that <span class="math inline">\(\forall c &gt; 0\)</span> and <span class="math inline">\(p \in (-\infty, 2d/\gamma^2)\)</span>, then</p><p><span class="math display">\[\IE \bigl\{ M_\gamma (B(0, c))^p\bigr\} &lt; \infty, \]</span></p><p>and suggested that</p><p><span class="math display">\[\IP \Bigl[ M_{\gamma} ( B(0, c)) &gt; t\Bigr] \approx c t^{-2d^2/\gamma^2}.\]</span></p><p>If <span class="math inline">\(d = 1\)</span>, <span class="math inline">\(g = 0\)</span>, Boral and Sin showed that there exists <span class="math inline">\(c &gt; 0\)</span> such that</p><p><span class="math display">\[\lim_{t \to \infty} t^{2/\gamma^2} \IP \bigl[ M_{\gamma} (A) &gt; t\bigr] = c, \]</span></p><p>where <span class="math inline">\(A \subset \IR\)</span> is an interval.</p><h4 id="theorem-1.-rhodes-and-vargas-2019">Theorem 1. (<strong>Rhodes and Vargas (2019)</strong>)</h4><p>When <span class="math inline">\(d = 2\)</span>, <span class="math inline">\(g \equiv 0\)</span> on a <span class="math inline">\(D\)</span>-disk for <span class="math inline">\(\delta &gt; 0\)</span> sufficiently small, <span class="math inline">\(O \subset D\)</span> is open with <span class="math inline">\(C^1\)</span> boundary,</p><p><span class="math display">\[\IP \Bigl[ M_{\gamma} (O) &gt; t\Bigr] = c_\gamma \lvert O \rvert t^{-4/\delta^2} + \mathrm{o} (t^{-6/\gamma^2 - \delta }), \]</span></p><p>where <span class="math inline">\(c_{\gamma} = (t/\gamma^2 - 1) \bar{R} (\gamma)\)</span>.</p><ul><li>generalize for other dimension?</li></ul><h5 id="proof."><strong>Proof.</strong></h5><p><strong>Step 1.</strong> Localization trick:</p><p><span class="math display">\[\begin{aligned}    \IP \Bigl[ M_{\gamma}(O) &gt; t\Bigr] &amp; = \IE \biggl\{ \frac{M_\gamma(O)}{M_{\gamma}(O)} \mathbf{1} \bigl( M_{\gamma} (O) &gt;t\bigr)\biggr\}\\&amp;= \int_{ O }^{  } \IE \biggl\{ e^{\gamma X(v) - \frac{\gamma^2}{2} \IE (X(v)^2)}\frac{1}{M_{\gamma}(O)} \mathbf{1} \bigl( M_{\gamma} (O) &gt;t\bigr) \biggr\} d v\\&amp;= \int_{ O }^{  } \IE \biggl\{\frac{1}{M_{\gamma}(O)} \mathbf{1} \bigl( M_{\gamma} (v, O) &gt;t\bigr) \biggr\} d v, \end{aligned}\tag{1}\]</span></p><p>where</p><p><span class="math display">\[M_{\gamma} (v, O) = \int_{O} \frac{1}{ \lvert z - v \rvert^{\gamma^2}} M_{\gamma} (d z).\]</span></p><p><strong>Step 2.</strong> As <span class="math inline">\(r &gt; 0\)</span>,</p><p><span class="math display">\[\begin{aligned}    (1) &amp; \to \IE \biggl\{ \frac{1}{M_{\gamma} (v, B_r(v))} \mathbf{1} \bigl(M_{\gamma} (v, B_r(v))    &gt; t \bigr) \biggr\}\\    &amp; = r^{ 2 - \gamma^2 } \exp \Bigl\{ \gamma N_{v, r} - \frac{\gamma^2}{2} \IE N_{v, r} \Bigr\}    \underbrace{\int_{0}^{\infty} \exp \bigl[ \gamma \bigl( B_s - (2/\gamma - \gamma/2) s\bigr)    \bigr]}_{:= \bar R (\gamma)}.\end{aligned}\]</span></p><p><strong>End of the proof</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;ul&gt;
-&lt;li&gt;睡觉时间：2:30&lt;/li&gt;
-&lt;li&gt;起床时间：7:30&lt;/li&gt;
-&lt;li&gt;到办公室时间：8:30
-&lt;ul&gt;
-&lt;li&gt;今天坐地铁来学校，然后从地铁站走到办公室，共用时30分钟 (其中走路20分钟)。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;午饭: 12:20--
-      
-    
-    </summary>
-    
-    
-      <category term="研究日志" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E7%A0%94%E7%A9%B6%E6%97%A5%E5%BF%97/"/>
-    
-    
-      <category term="review" scheme="zhuosongz.github.io/zszhexo.github.io/tags/review/"/>
-    
-      <category term="Bootstrap" scheme="zhuosongz.github.io/zszhexo.github.io/tags/Bootstrap/"/>
-    
-      <category term="Statistical application" scheme="zhuosongz.github.io/zszhexo.github.io/tags/Statistical-application/"/>
-    
-      <category term="MLE" scheme="zhuosongz.github.io/zszhexo.github.io/tags/MLE/"/>
-    
-      <category term="M estimator" scheme="zhuosongz.github.io/zszhexo.github.io/tags/M-estimator/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>19-11-04</title>
-    <link href="zhuosongz.github.io/zszhexo.github.io/2019/11/03/19-11-04/"/>
-    <id>zhuosongz.github.io/zszhexo.github.io/2019/11/03/19-11-04/</id>
-    <published>2019-11-03T15:09:54.000Z</published>
-    <updated>2019-11-04T15:34:33.599Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天周日，搭建了一下个人网站。</p><p>晚上2点睡觉。</p><p>以后每天都要做更新，保持好的一种状态。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;今天周日，搭建了一下个人网站。&lt;/p&gt;
-&lt;p&gt;晚上2点睡觉。&lt;/p&gt;
-&lt;p&gt;以后每天都要做更新，保持好的一种状态。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-      <category term="日记" scheme="zhuosongz.github.io/zszhexo.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
-    
-    
-      <category term="life" scheme="zhuosongz.github.io/zszhexo.github.io/tags/life/"/>
     
   </entry>
   
